@@ -1,0 +1,602 @@
+hotel_name,rating,rating_description,reviews,star_rating,location,nearest_landmark,distance_to_landmark,price,tax,city_source,source_file,distance_value,distance_unit,distance_km,price_outlier_flag
+The Park Bangalore,3.9,Very Good,4187.0,5.0,Ulsoor,,,7567,2254,Bangalore,bangalore.csv,,,,False
+"Keys Select by Lemon Tree Hotels, Whitefield, Bengaluru",4.0,Very Good,2201.0,4.0,Brookefield,,,1509,531,Bangalore,bangalore.csv,,,,False
+ITC Windsor - A Luxury Collection Hotel,4.4,Excellent,1315.0,5.0,Vasanth Nagar,Bangalore Palace,2.4 km,9900,,Bangalore,bangalore.csv,2.4,km,2.4,False
+Lemon Tree Premier Ulsoor Lake Bangalore,4.0,Very Good,5089.0,5.0,Sivanchetti Gardens,Ulsoor Lake,770 m,2347,918,Bangalore,bangalore.csv,770.0,m,0.77,False
+"Keys Select by Lemon Tree Hotels, Hosur Road, Bengaluru",4.0,Very Good,3290.0,4.0,Hosur road,,,2522,1014,Bangalore,bangalore.csv,,,,False
+The Chancery Pavilion,3.8,Very Good,4764.0,5.0,Ashok Nagar,MG Road,2.4 km,6580,1540,Bangalore,bangalore.csv,2.4,km,2.4,False
+Radisson Blu Atria Bengaluru,4.3,Excellent,2372.0,5.0,Palace road,,,10200,,Bangalore,bangalore.csv,,,,False
+Lemon Tree Hotel Electronics City Bangalore,4.1,Very Good,2314.0,4.0,Electronic City,,,2598,1016,Bangalore,bangalore.csv,,,,False
+"Welcomhotel by ITC Hotels, Richmond Road, Bengaluru",4.3,Excellent,2076.0,5.0,Richmond road,,,7700,,Bangalore,bangalore.csv,,,,False
+Grand Mercure Bangalore - An Accor Brand,4.3,Excellent,426.0,5.0,Koramangala,,,9700,,Bangalore,bangalore.csv,,,,False
+Holiday Inn Express Bengaluru Yeshwantpur,3.7,Very Good,1602.0,3.0,Tumkur road,,,3680,480,Bangalore,bangalore.csv,,,,False
+goSTOPS Bengaluru - Rooms & Dorms,4.2,Very Good,500.0,,Gandhi Nagar,,,1098,269,Bangalore,bangalore.csv,,,,False
+Holiday Inn Bengaluru Racecourse,4.0,Very Good,2156.0,5.0,Gandhi Nagar,,,7249,,Bangalore,bangalore.csv,,,,False
+Fortune Select JP Cosmos - Member ITC Hotel Group,4.0,Very Good,2944.0,5.0,Vasanth Nagar,Bangalore Palace,2.9 km,5999,,Bangalore,bangalore.csv,2.9,km,2.9,False
+Hyatt Centric MG Road Bangalore,4.2,Very Good,1162.0,5.0,Ulsoor,,,6250,,Bangalore,bangalore.csv,,,,False
+Ibis Bengaluru City Centre - An Accor Brand,3.9,Very Good,1805.0,4.0,Sampangi Rama Nagar,Cubbon Park,1.8 km,4299,,Bangalore,bangalore.csv,1.8,km,1.8,False
+"The Fern Residency - Yeshwanthpur, Bengaluru",4.0,Very Good,1618.0,4.0,Tumkur road,,,4112,831,Bangalore,bangalore.csv,,,,False
+Ashraya International Hotel,3.7,Very Good,664.0,3.0,Infantry Road,MG Road,2.3 km,2792,564,Bangalore,bangalore.csv,2.3,km,2.3,False
+Davanam Sarovar Portico Suites,4.3,Excellent,1865.0,4.0,Koramangala,,,5076,1026,Bangalore,bangalore.csv,,,,False
+"Taj M G Road, Bengaluru",4.6,Excellent,1715.0,5.0,Sivanchetti Gardens,MG Road,2.9 km,9000,,Bangalore,bangalore.csv,2.9,km,2.9,False
+Draper Startup House Koramangala | Dorms & Rooms,4.4,Excellent,222.0,,Koramangala,,,1113,294,Bangalore,bangalore.csv,,,,False
+The Lalit Ashok Bangalore,3.8,Very Good,2542.0,5.0,Seshadripuram,,,6698,1354,Bangalore,bangalore.csv,,,,False
+"Vivanta Bengaluru, Residency Road",4.3,Excellent,1022.0,5.0,Residency Road,MG Road,1.5 km,7000,,Bangalore,bangalore.csv,1.5,km,1.5,False
+ibis Bengaluru Hebbal - An Accor Brand,4.1,Very Good,237.0,4.0,Hebbal,,,4499,,Bangalore,bangalore.csv,,,,False
+Vividus,4.2,Very Good,1791.0,5.0,Gandhi Nagar,,,6547,2156,Bangalore,bangalore.csv,,,,False
+Citrus Hotel Cunningham,4.1,Very Good,1869.0,5.0,Cunningham Road,Indira Gandhi Musical Fountain Park,780 m,3934,1075,Bangalore,bangalore.csv,780.0,m,0.78,False
+Citrus Classic Bengaluru,3.9,Very Good,527.0,4.0,Outer Ring Road,,,3575,977,Bangalore,bangalore.csv,,,,False
+"Taj Yeshwantpur, Bengaluru",4.6,Excellent,2138.0,5.0,Tumkur road,,,7500,,Bangalore,bangalore.csv,,,,False
+Lemon Tree Hotel Whitefield,4.1,Very Good,2327.0,4.0,Brookefield,,,2347,843,Bangalore,bangalore.csv,,,,False
+"Golden Lotus Bangalore Boutique Suites | Rooms & Garden
+Like a 3",3.8,Very Good,865.0,,Richmond road,MG Road,3.0 km,2660,754,Bangalore,bangalore.csv,3.0,km,3.0,False
+Ramada Encore,4.4,Excellent,4271.0,4.0,Domlur Layout,,,5640,1140,Bangalore,bangalore.csv,,,,False
+Ibis Bengaluru Hosur Road - An Accor Brand,3.9,Very Good,1381.0,3.0,Hosur road,,,4499,,Bangalore,bangalore.csv,,,,False
+"The Oberoi, Bengaluru",4.7,Excellent,1565.0,5.0,Ulsoor,,,11500,,Bangalore,bangalore.csv,,,,False
+Holiday Inn Express Bengaluru Whitefield ITPL,3.5,Very Good,1242.0,3.0,Whitefield,,,3399,,Bangalore,bangalore.csv,,,,False
+The Hosteller Bangalore Brigade Road,,,,,Ashok Nagar,MG Road,2.2 km,1330,315,Bangalore,bangalore.csv,2.2,km,2.2,False
+Ginger Bangalore (IRR),3.6,Very Good,1639.0,3.0,Domlur Layout,,,1689,,Bangalore,bangalore.csv,,,,False
+Gokulam Grand Hotel & Spa,4.1,Very Good,1537.0,5.0,Mathikere,,,6409,1295,Bangalore,bangalore.csv,,,,False
+Bloom Hotel - Airport Road Bengaluru,4.4,Excellent,191.0,3.0,Near Bangalore Airport,Kempegowda Airport,7.7 km,4000,,Bangalore,bangalore.csv,7.7,km,7.7,False
+Hotel Ramanashree Richmond Circle,3.8,Very Good,686.0,3.0,Sampangi Rama Nagar,Cubbon Park,2.1 km,2792,564,Bangalore,bangalore.csv,2.1,km,2.1,False
+"SRS Suites
+Like a 3",4.4,Excellent,20.0,,Koramangala,,,3178,806,Bangalore,bangalore.csv,,,,False
+JP CORDIAL,3.7,Very Good,1750.0,3.0,Majestic,,,2726,638,Bangalore,bangalore.csv,,,,False
+Taj Bangalore,4.6,Excellent,1172.0,5.0,Near Bangalore Airport,Kempegowda Airport,900 m,11750,,Bangalore,bangalore.csv,900.0,m,0.9,False
+Radisson Bengaluru City Center,4.5,Excellent,1283.0,4.0,Ulsoor,,,7500,,Bangalore,bangalore.csv,,,,False
+The Pride Hotel Bangalore,3.8,Very Good,1526.0,4.0,Richmond road,Cubbon Park,2.6 km,4599,552,Bangalore,bangalore.csv,2.6,km,2.6,False
+BloomSuites | Electronic City,4.1,Very Good,643.0,4.0,Electronic City,,,5000,,Bangalore,bangalore.csv,,,,False
+Southern Star Bangalore,3.9,Very Good,1320.0,4.0,Ashok Nagar,MG Road,910 m,3082,872,Bangalore,bangalore.csv,910.0,m,0.91,False
+Royal Orchid Central Bangalore,3.7,Very Good,3836.0,4.0,Ulsoor,MG Road,2.3 km,5823,699,Bangalore,bangalore.csv,2.3,km,2.3,False
+Shivas Galaxy Hotel,4.1,Very Good,963.0,4.0,Near Bangalore Airport,Kempegowda Airport,8.2 km,2900,604,Bangalore,bangalore.csv,8.2,km,8.2,False
+"The Bouvice
+Like a 3",4.2,Very Good,151.0,,Koramangala,,,2279,624,Bangalore,bangalore.csv,,,,False
+JW Marriott Bengaluru Prestige Golfshire Resort and Spa,4.7,Excellent,100.0,5.0,In Devanhalli,Bangalore city centre,52.0 km,25000,,Bangalore,bangalore.csv,52.0,km,52.0,True
+La Sara Grand (Formerly Known as Nandhana Grand),4.0,Very Good,838.0,3.0,Koramangala,,,2939,752,Bangalore,bangalore.csv,,,,False
+Zone By The Park Infantry,3.9,Very Good,762.0,5.0,Infantry Road,MG Road,1.9 km,4252,1021,Bangalore,bangalore.csv,1.9,km,1.9,False
+The Chancery,3.9,Very Good,2155.0,4.0,Ashok Nagar,MG Road,980 m,4230,990,Bangalore,bangalore.csv,980.0,m,0.98,False
+Nash Inn Electronic City,3.1,Good,321.0,,Electronic City,,,979,268,Bangalore,bangalore.csv,,,,False
+Radisson Blu Bengaluru Outer Ring Road,4.2,Very Good,1159.0,5.0,Outer Ring Road,,,8000,,Bangalore,bangalore.csv,,,,False
+"Ginger Bangalore, Whitefield",3.7,Very Good,1198.0,3.0,Brookefield,,,1884,,Bangalore,bangalore.csv,,,,False
+Hotel Royal Orchid Bangalore,3.9,Very Good,2185.0,5.0,Domlur Layout,,,7268,872,Bangalore,bangalore.csv,,,,False
+"The Hosteller Bangalore, Koramangala",4.3,Excellent,13.0,,Koramangala,,,1295,294,Bangalore,bangalore.csv,,,,False
+Silicon City Hotel,3.4,Good,695.0,4.0,Hosur road,,,1586,418,Bangalore,bangalore.csv,,,,False
+Country Inn And Suites By Radisson Bengaluru Hebbal,3.8,Very Good,1928.0,4.0,Hebbal,,,3500,,Bangalore,bangalore.csv,,,,False
+Octave Himalaya Monarch,4.0,Very Good,2624.0,3.0,Gandhi Nagar,,,1645,333,Bangalore,bangalore.csv,,,,False
+Greenpark Bengaluru,4.7,Excellent,62.0,4.0,Bannerghatta Main road,,,6345,1350,Bangalore,bangalore.csv,,,,False
+ITC Gardenia - A Luxury Collection Hotel,4.5,Excellent,1389.0,5.0,Ashok Nagar,MG Road,2.1 km,11700,,Bangalore,bangalore.csv,2.1,km,2.1,False
+The Continentti Whitefield,4.0,Very Good,1189.0,3.0,Brookefield,,,2791,564,Bangalore,bangalore.csv,,,,False
+The Monarch Luxur,3.9,Very Good,775.0,4.0,Infantry Road,MG Road,1.6 km,3723,752,Bangalore,bangalore.csv,1.6,km,1.6,False
+Ballal Residency,3.9,Very Good,875.0,3.0,Residency Road,MG Road,2.3 km,3084,836,Bangalore,bangalore.csv,2.3,km,2.3,False
+Hibernest Indiranagar,4.2,Very Good,142.0,,Indiranagar,,,1005,325,Bangalore,bangalore.csv,,,,False
+Fortune Park JP Celestial-Member ITC Hotel Group,3.8,Very Good,1876.0,4.0,Gandhi Nagar,,,5292,,Bangalore,bangalore.csv,,,,False
+"Click Hotel Bangalore, International Airport",4.2,Very Good,438.0,3.0,Near Bangalore Airport,Kempegowda Airport,8.0 km,3510,421,Bangalore,bangalore.csv,8.0,km,8.0,False
+Omatra Hotel HSR,3.4,Good,91.0,,Outer Ring Road,,,2194,539,Bangalore,bangalore.csv,,,,False
+Svenska Design Hotel,3.3,Good,627.0,,Electronic City,,,1999,642,Bangalore,bangalore.csv,,,,False
+Peninsula Suites,3.9,Very Good,1341.0,4.0,Whitefield,,,2264,306,Bangalore,bangalore.csv,,,,False
+Iris Hotel & Spa Bangalore,4.1,Very Good,1016.0,4.0,Residency Road,MG Road,2.1 km,5330,1247,Bangalore,bangalore.csv,2.1,km,2.1,False
+SM Royal Stay Hotel near Intl Airport Bangalore,4.2,Very Good,47.0,3.0,Near Bangalore Airport,Kempegowda Airport,5.0 km,1692,360,Bangalore,bangalore.csv,5.0,km,5.0,False
+"Halcyon Residences
+Like a 3",3.8,Very Good,613.0,,Koramangala,,,2759,755,Bangalore,bangalore.csv,,,,False
+Shangri-La Bengaluru,4.5,Excellent,584.0,5.0,Palace road,Bangalore Palace,1.9 km,13500,,Bangalore,bangalore.csv,1.9,km,1.9,True
+The Leela Bhartiya City Bengaluru,4.6,Excellent,213.0,5.0,Tirumanahalli,,,11000,,Bangalore,bangalore.csv,,,,False
+"Holiday Inn Express & Suites, OMR Bengaluru",4.1,Very Good,526.0,4.0,Whitefield,,,3999,,Bangalore,bangalore.csv,,,,False
+Fairfield By Marriott Bengaluru Rajajinagar,3.9,Very Good,883.0,4.0,Rajajinagar,,,5400,,Bangalore,bangalore.csv,,,,False
+The Zuri Whitefield,4.3,Excellent,662.0,5.0,Whitefield,,,6501,780,Bangalore,bangalore.csv,,,,False
+MAYBAACH HOTELS,4.1,Very Good,79.0,3.0,Marathahalli,,,2820,660,Bangalore,bangalore.csv,,,,False
+Regenta Place Bangalore by Royal Orchid Hotels Limited,3.5,Very Good,923.0,4.0,Shivaji Nagar,MG Road,2.2 km,2848,342,Bangalore,bangalore.csv,2.2,km,2.2,False
+Icon Business Hotel by Bhagini,3.6,Very Good,1024.0,3.0,HAL old airport road,,,2300,465,Bangalore,bangalore.csv,,,,False
+Sterlings Mac Hotel & Suites,4.1,Very Good,732.0,5.0,HAL old airport road,,,6768,1368,Bangalore,bangalore.csv,,,,False
+Nexstay Kites Inn,4.3,Excellent,36.0,3.0,Hosur road,,,2799,,Bangalore,bangalore.csv,,,,False
+The Leela Palace Bengaluru,4.5,Excellent,1048.0,5.0,HAL old airport road,,,16500,,Bangalore,bangalore.csv,,,,True
+Omatra Infantry Road | Rooms in a Homestay,3.8,Very Good,319.0,,Infantry Road,MG Road,1.4 km,2098,554,Bangalore,bangalore.csv,1.4,km,1.4,False
+Bloom Hotel HSR Layout Sector 3,3.9,Very Good,24.0,3.0,HSR Layout,,,5500,,Bangalore,bangalore.csv,,,,False
+NOOR EMPIRE INTERNATIONAL,3.7,Very Good,1552.0,3.0,Koramangala,,,2776,752,Bangalore,bangalore.csv,,,,False
+Attide Biz,3.5,Very Good,468.0,3.0,Hebbal,,,2835,693,Bangalore,bangalore.csv,,,,False
+Stayhome Classic,4.3,Excellent,285.0,,Bilekahalli,,,2345,642,Bangalore,bangalore.csv,,,,False
+DoubleTree Suites by Hilton,4.3,Excellent,849.0,5.0,Outer Ring Road,,,9500,,Bangalore,bangalore.csv,,,,False
+Bloomrooms @ Indiranagar,4.1,Very Good,874.0,3.0,Indiranagar,,,4300,,Bangalore,bangalore.csv,,,,False
+RG Royal Hotel,4.2,Very Good,875.0,4.0,Yeshwanthpur,,,3666,741,Bangalore,bangalore.csv,,,,False
+Four Seasons Hotel Bengaluru at Embassy One,4.8,Excellent,302.0,5.0,Ganganagar,Palace Grounds,990 m,14875,,Bangalore,bangalore.csv,990.0,m,0.99,True
+Ramee Strand inn,3.0,Good,348.0,3.0,Hosur road,,,1505,396,Bangalore,bangalore.csv,,,,False
+Shravanthi Sarovar Portico JP Nagar,3.6,Very Good,139.0,4.0,Outer Ring Road,,,3977,804,Bangalore,bangalore.csv,,,,False
+"Vivanta Bengaluru, Whitefield",4.3,Excellent,959.0,5.0,Whitefield,,,7500,,Bangalore,bangalore.csv,,,,False
+"Melange Astris
+Like a 3",4.1,Very Good,1006.0,,Richmond road,Cubbon Park,2.5 km,4300,969,Bangalore,bangalore.csv,2.5,km,2.5,False
+Octave Church Inn,3.5,Very Good,712.0,3.0,Church Street,MG Road,94 m,1669,337,Bangalore,bangalore.csv,94.0,m,0.094,False
+Mastiff Infantry Bengaluru,4.0,Very Good,221.0,3.0,Infantry Road,MG Road,1.8 km,1865,569,Bangalore,bangalore.csv,1.8,km,1.8,False
+"Taj Club House, Chennai",4.3,Excellent,2000.0,5.0,Royapettah,,,6390,767,Chennai,chennai.csv,,,,False
+The Park Chennai,3.7,Very Good,8366.0,5.0,Near US Consulate,,,7198,2167,Chennai,chennai.csv,,,,False
+"Taj Fisherman's Cove Resort & Spa, Chennai",4.3,Excellent,1856.0,5.0,Covelong,city centre,36.3 km,12555,2260,Chennai,chennai.csv,36.3,km,36.3,False
+Hotel Savera,4.0,Very Good,7458.0,4.0,Mylapore,,,4612,1091,Chennai,chennai.csv,,,,False
+Ibis Chennai OMR - An Accor Brand,4.1,Very Good,2545.0,4.0,Sholinganallur,,,3345,,Chennai,chennai.csv,,,,False
+"Taj Coromandel, Chennai",4.5,Excellent,784.0,5.0,Near US Consulate,,,11200,,Chennai,chennai.csv,,,,False
+Courtyard by Marriott Chennai,4.2,Very Good,1208.0,4.0,Mount road,,,7500,,Chennai,chennai.csv,,,,False
+Radisson Blu Hotel Chennai City Centre,4.3,Excellent,3991.0,5.0,Egmore,,,9443,,Chennai,chennai.csv,,,,False
+FIRST INN HOTELS,3.8,Very Good,214.0,,Perungudi,,,2907,594,Chennai,chennai.csv,,,,False
+Ibis Chennai City Centre - An Accor Brand,3.9,Very Good,2213.0,3.0,Mount road,Thousand Lights Mosque,540 m,5299,,Chennai,chennai.csv,540.0,m,0.54,False
+Rohaan Inns - UPAR Ashok Nagar,4.1,Very Good,179.0,,Ashok Nagar,Chennai Airport,9.4 km,1771,495,Chennai,chennai.csv,9.4,km,9.4,False
+"Vivanta Chennai, IT Expressway",4.4,Excellent,1601.0,5.0,Sholinganallur,,,7360,,Chennai,chennai.csv,,,,False
+"Taj Connemara, Chennai",4.5,Excellent,1215.0,5.0,Chennai,,,7600,1368,Chennai,chennai.csv,,,,False
+Four Points by Sheraton Chennai OMR,4.1,Very Good,2314.0,4.0,Sholinganallur,,,5859,1197,Chennai,chennai.csv,,,,False
+Ramada Plaza by Wyndham,4.5,Excellent,3185.0,5.0,Saidapet,Chennai Airport,7.6 km,7533,2554,Chennai,chennai.csv,7.6,km,7.6,False
+Citadines OMRChennai,4.4,Excellent,1714.0,5.0,Sholinganallur,,,11340,,Chennai,chennai.csv,,,,False
+The Leela Palace Chennai,4.5,Excellent,1261.0,5.0,Raja Annamalai Puram,,,10800,,Chennai,chennai.csv,,,,False
+"The Raintree, Annasalai",4.4,Excellent,2376.0,5.0,Mount road,,,7299,,Chennai,chennai.csv,,,,False
+Hablis,4.2,Very Good,4529.0,4.0,Mount road,Chennai Airport,5.9 km,5271,1124,Chennai,chennai.csv,5.9,km,5.9,False
+Novotel Chennai Chamiers Road,4.3,Excellent,1002.0,5.0,Nandanam,,,7391,,Chennai,chennai.csv,,,,False
+The Residency,4.2,Very Good,1714.0,4.0,T Nagar,,,5336,1455,Chennai,chennai.csv,,,,False
+The Residency Towers,4.3,Excellent,1151.0,5.0,T Nagar,,,6696,1826,Chennai,chennai.csv,,,,False
+Novotel Chennai OMR - An Accor Brand,4.3,Excellent,1001.0,5.0,Sholinganallur,,,6134,,Chennai,chennai.csv,,,,False
+Hotel Southern Comfort ( Chennai Airport ),3.6,Very Good,2962.0,3.0,Chennai Airport,Chennai Airport,1.3 km,2870,757,Chennai,chennai.csv,1.3,km,1.3,False
+Lemon Tree Hotel Chennai,3.6,Very Good,3059.0,4.0,Saidapet,Chennai Airport,7.8 km,2487,903,Chennai,chennai.csv,7.8,km,7.8,False
+The Pride Hotel Chennai,3.6,Very Good,1911.0,4.0,Kilpauk,,,3399,408,Chennai,chennai.csv,,,,False
+"Ginger Chennai, Vadapalani",3.5,Very Good,2282.0,3.0,Vadapalani,,,2699,,Chennai,chennai.csv,,,,False
+UPAR Nungambakkam,4.1,Very Good,281.0,,Nungambakkam,,,2716,633,Chennai,chennai.csv,,,,False
+Ginger Chennai,3.5,Very Good,2071.0,3.0,Tharamani,,,3299,,Chennai,chennai.csv,,,,False
+Holiday Inn Express Chennai OMR Thoraipakkam,3.5,Very Good,2087.0,4.0,Thoraipakkam,,,3680,480,Chennai,chennai.csv,,,,False
+Raj Park Chennai,3.6,Very Good,1158.0,4.0,Teynampet,,,3953,935,Chennai,chennai.csv,,,,False
+"UPAR Uthandi, ECR
+Like a 3",3.6,Very Good,94.0,,East Coast Road (ECR),,,1317,397,Chennai,chennai.csv,,,,False
+Hotel Abu Palace,3.4,Good,1592.0,4.0,Purasawalkam,Chennai Egmore Railway Station,920 m,2947,789,Chennai,chennai.csv,920.0,m,0.92,False
+Ramada Chennai Egmore,3.9,Very Good,4600.0,4.0,Egmore,,,4557,1078,Chennai,chennai.csv,,,,False
+Hyatt Regency Chennai,4.1,Very Good,1152.0,5.0,Teynampet,,,7499,,Chennai,chennai.csv,,,,False
+"Lemon Tree Hotel, Shimona, Chennai",4.0,Very Good,1288.0,4.0,Manapakkam,Chennai Airport,9.0 km,2819,1115,Chennai,chennai.csv,9.0,km,9.0,False
+Trident Chennai,4.5,Excellent,1140.0,5.0,Chennai Airport,Chennai Airport,3.0 km,12750,,Chennai,chennai.csv,3.0,km,3.0,False
+Holiday Inn Chennai OMR IT Expressway,4.2,Very Good,1676.0,5.0,Thiruvanmiyur,,,7499,,Chennai,chennai.csv,,,,False
+Ibis Chennai SIPCOT - An Accor Brand,4.0,Very Good,1479.0,3.0,Egatoor,city centre,31.2 km,3299,,Chennai,chennai.csv,31.2,km,31.2,False
+The Accord Metropolitan,4.1,Very Good,2220.0,5.0,T Nagar,,,6500,1957,Chennai,chennai.csv,,,,False
+Park Hyatt Chennai,4.5,Excellent,525.0,5.0,Guindy,Chennai Airport,7.8 km,9000,,Chennai,chennai.csv,7.8,km,7.8,False
+OYO Home Fantasea Uthandi Near Juhu Beach,1.9,Poor,7.0,,Uthandi,,,769,40,Chennai,chennai.csv,,,,False
+Gokulam Park Sabari - Siruseri SIPCOT,4.2,Very Good,1271.0,4.0,Navallur,,,5719,1244,Chennai,chennai.csv,,,,False
+BOULEVARD BY DESIGN HOTEL,4.1,Very Good,821.0,4.0,Velachery,Chennai Airport,8.7 km,4860,1026,Chennai,chennai.csv,8.7,km,8.7,False
+Fairfield by Marriott Chennai OMR,4.2,Very Good,983.0,4.0,Sholinganallur,,,4850,,Chennai,chennai.csv,,,,False
+ITC Grand Chola - A Luxury Collection Hotel,4.4,Excellent,2603.0,5.0,Guindy,Chennai Airport,7.8 km,12500,,Chennai,chennai.csv,7.8,km,7.8,False
+The Ambassador Pallava,4.0,Very Good,1926.0,4.0,Egmore,,,8079,2432,Chennai,chennai.csv,,,,False
+Le Royal Meridien,3.9,Very Good,1968.0,5.0,Mount road,Chennai Airport,5.6 km,9000,,Chennai,chennai.csv,5.6,km,5.6,False
+"Taj Wellington Mews, Chennai",4.7,Excellent,327.0,5.0,Tharamani,,,10560,,Chennai,chennai.csv,,,,False
+Novotel Chennai Sipcot - An Accor Brand,4.3,Excellent,855.0,5.0,Egatoor,city centre,31.6 km,8138,,Chennai,chennai.csv,31.6,km,31.6,False
+The Mount Manor,3.4,Good,874.0,3.0,Chennai Airport,Chennai Airport,3.8 km,2350,634,Chennai,chennai.csv,3.8,km,3.8,False
+Green Park Chennai,4.2,Very Good,1503.0,5.0,Vadapalani,,,6696,1368,Chennai,chennai.csv,,,,False
+Mango Hill central Chennai,3.2,Good,196.0,3.0,T Nagar,,,3314,677,Chennai,chennai.csv,,,,False
+Venture Park,3.5,Very Good,1192.0,3.0,Thoraipakkam,,,1315,339,Chennai,chennai.csv,,,,False
+Grand Chennai by GRT Hotels,4.5,Excellent,1535.0,5.0,T Nagar,,,8550,1710,Chennai,chennai.csv,,,,False
+"Season 4 Residences, Nungambakkam",3.7,Very Good,101.0,,Near US Consulate,,,2591,620,Chennai,chennai.csv,,,,False
+Ginger Chennai OMR,4.5,Excellent,161.0,3.0,Navallur,,,2479,,Chennai,chennai.csv,,,,False
+Hotel Pandian,3.5,Very Good,2322.0,2.0,Egmore,,,1595,342,Chennai,chennai.csv,,,,False
+Hilton Chennai,4.3,Excellent,811.0,5.0,Guindy,Chennai Airport,8.2 km,11000,,Chennai,chennai.csv,8.2,km,8.2,False
+FORTEL,3.5,Very Good,502.0,,Egmore,,,3118,703,Chennai,chennai.csv,,,,False
+Royal Park,3.1,Good,10.0,,Near Marina Beach,,,1351,407,Chennai,chennai.csv,,,,False
+Fairfield by Marriott Chennai Mahindra World City,4.2,Very Good,442.0,4.0,Mahindra World City,city centre,45.7 km,5533,1130,Chennai,chennai.csv,45.7,km,45.7,False
+Crossway Parklane Airport Hotel,3.2,Good,517.0,3.0,Meenambakkam,Chennai Airport,2.9 km,2544,574,Chennai,chennai.csv,2.9,km,2.9,False
+Hotel Ashok Residency,3.7,Very Good,559.0,3.0,Porur,,,4290,933,Chennai,chennai.csv,,,,False
+Hotel Greens Gate (Near Central station),3.6,Very Good,1869.0,,Poongavanapuram,,,1887,498,Chennai,chennai.csv,,,,False
+HOTEL RANJITH,4.0,Very Good,159.0,3.0,Near US Consulate,,,5208,1064,Chennai,chennai.csv,,,,False
+"Welcomhotel by ITC Hotels, GST Road, Chennai",4.2,Very Good,510.0,5.0,Singaperumal Koil,city centre,43.6 km,7200,,Chennai,chennai.csv,43.6,km,43.6,False
+Regenta Central RS Chennai SIPCOT OMR,4.4,Excellent,740.0,4.0,Egatoor,city centre,31.6 km,3824,459,Chennai,chennai.csv,31.6,km,31.6,False
+CRESCENT PARK (near US Consulate Chennai),4.1,Very Good,284.0,3.0,Nungambakkam,,,2307,471,Chennai,chennai.csv,,,,False
+Harrisons,4.0,Very Good,604.0,3.0,Nungambakkam,,,3906,798,Chennai,chennai.csv,,,,False
+MGM Beach Resorts (15Kms before Mahabalipuram),3.9,Very Good,2900.0,4.0,Muttukadu,city centre,31.8 km,25110,7812,Chennai,chennai.csv,31.8,km,31.8,True
+PARK PLAZA CHENNAI OMR,4.0,Very Good,198.0,5.0,Thoraipakkam,,,4200,,Chennai,chennai.csv,,,,False
+Feathers A Radha Hotel Chennai,4.3,Excellent,447.0,5.0,Manapakkam,Chennai Airport,9.7 km,8999,,Chennai,chennai.csv,9.7,km,9.7,False
+V7 HOTEL,3.2,Good,1120.0,3.0,Porur,,,3667,896,Chennai,chennai.csv,,,,False
+"Keys Select by Lemon Tree Hotels, Katti-Ma, Chennai",3.7,Very Good,400.0,3.0,Adyar,,,2240,796,Chennai,chennai.csv,,,,False
+Hostel Gandhi,4.2,Very Good,109.0,,Saidapet,Chennai Airport,8.0 km,1307,107,Chennai,chennai.csv,8.0,km,8.0,False
+Grand Cascade,3.6,Very Good,1402.0,3.0,Poongavanapuram,Chennai Central Railway Station,730 m,2052,502,Chennai,chennai.csv,730.0,m,0.73,False
+Days Hotel Chennai OMR,4.3,Excellent,392.0,4.0,Kelambakkam,city centre,35.3 km,2767,565,Chennai,chennai.csv,35.3,km,35.3,False
+PP Residency,4.0,Very Good,421.0,,Chennai,city centre,35.0 km,2768,713,Chennai,chennai.csv,35.0,km,35.0,False
+Highnest | Rooms & Caretaker,3.5,Very Good,52.0,,Kattankolatur R.F.,city centre,40.6 km,2815,633,Chennai,chennai.csv,40.6,km,40.6,False
+Grand Elegant,3.9,Very Good,1064.0,,Poongavanapuram,,,2046,418,Chennai,chennai.csv,,,,False
+Accord Chrome,4.5,Excellent,217.0,,Chromepet,Chennai Airport,5.4 km,6975,1425,Chennai,chennai.csv,5.4,km,5.4,False
+AVENUE HOTEL -CHENNAI AIRPORT,3.6,Very Good,1338.0,,Pallavaram,Chennai Airport,3.1 km,2671,546,Chennai,chennai.csv,3.1,km,3.1,False
+La Woods hotel (1Km from us consulate chennai),4.0,Very Good,323.0,,Mount road,,,3360,403,Chennai,chennai.csv,,,,False
+E Hotel,4.1,Very Good,590.0,4.0,Royapettah,,,6749,810,Chennai,chennai.csv,,,,False
+Hotel Bakya Slot - Maraimalai Nagar,3.6,Very Good,210.0,3.0,Maraimalai Nagar,city centre,37.4 km,2046,484,Chennai,chennai.csv,37.4,km,37.4,False
+Pharos Hotels,4.3,Excellent,73.0,3.0,Nungambakkam,,,4650,1100,Chennai,chennai.csv,,,,False
+Al Noor Palace,4.0,Very Good,290.0,,Triplicane,Marina Beach,1.8 km,2093,428,Chennai,chennai.csv,1.8,km,1.8,False
+JS Five two By twinstar hotel,4.0,Very Good,68.0,,Raja Annamalai Puram,,,3794,976,Chennai,chennai.csv,,,,False
+HOTEL HALEZ,4.3,Excellent,490.0,,Sholinganallur,,,3800,456,Chennai,chennai.csv,,,,False
+Essentia Premier Hotel,4.1,Very Good,63.0,4.0,Thoraipakkam,,,3989,479,Chennai,chennai.csv,,,,False
+ILARA Hotel & Spa,4.0,Very Good,785.0,3.0,Navallur,,,2650,576,Chennai,chennai.csv,,,,False
+The Centrepoint OMR,3.8,Very Good,886.0,3.0,Sholinganallur,,,3322,723,Chennai,chennai.csv,,,,False
+"KLASE HOTELS, GUINDY",3.3,Good,260.0,3.0,Mount road,Chennai Airport,8.4 km,2914,768,Chennai,chennai.csv,8.4,km,8.4,False
+Just Guest House,4.0,Very Good,745.0,,Pazhavanthangal,Chennai Airport,4.0 km,3149,811,Chennai,chennai.csv,4.0,km,4.0,False
+GRAND OLIVER,3.6,Very Good,490.0,,Poongavanapuram,,,1243,302,Chennai,chennai.csv,,,,False
+"Pebbles Serviced Apartments
+Like a 3",4.2,Very Good,179.0,,T Nagar,,,2349,547,Chennai,chennai.csv,,,,False
+Mercure Chennai Sriperumbudur - An Accor Brand,4.2,Very Good,70.0,5.0,Oragadam,city centre,43.0 km,5900,,Chennai,chennai.csv,43.0,km,43.0,False
+ZAITH RESIDENCY,3.4,Good,243.0,,Thousand Lights,,,2355,635,Chennai,chennai.csv,,,,False
+Mount Kailash Suites,4.0,Very Good,422.0,3.0,Mount road,Chennai Airport,9.2 km,2516,615,Chennai,chennai.csv,9.2,km,9.2,False
+The Mount City near US Consulate,3.6,Very Good,395.0,,Triplicane,Marina Beach,2.9 km,1748,460,Chennai,chennai.csv,2.9,km,2.9,False
+"Country Inn and Suites by Radisson, Sahibabad",4.2,Very Good,15697.0,5.0,In Ghaziabad,Delhi city centre,30.0 km,6249,,Delhi,delhi.csv,30.0,km,30.0,False
+Radisson Blu Kaushambi Delhi NCR,4.0,Very Good,1826.0,5.0,In Ghaziabad,Delhi city centre,28.0 km,5039,605,Delhi,delhi.csv,28.0,km,28.0,False
+The Ashok,3.8,Very Good,5694.0,5.0,Chanakyapuri,T1 - Delhi Airport (IGI Airport),9.8 km,6288,,Delhi,delhi.csv,9.8,km,9.8,False
+Pride Plaza Hotel Aerocity New Delhi,4.0,Very Good,7275.0,5.0,Aerocity,Indira Gandhi International Airport,4.0 km,6499,780,Delhi,delhi.csv,4.0,km,4.0,False
+"Golden Tulip Vasundhara Hotel & Suites, Delhi NCR",3.9,Very Good,2057.0,4.0,In Ghaziabad,Delhi city centre,31.0 km,3386,871,Delhi,delhi.csv,31.0,km,31.0,False
+"Welcomhotel by ITC Hotels, Dwarka, New Delhi",4.0,Very Good,9348.0,5.0,Sector 10 Dwarka,,,6223,,Delhi,delhi.csv,,,,False
+Holiday Inn New Delhi International Airport,4.2,Very Good,5734.0,5.0,Aerocity,Indira Gandhi International Airport,3.8 km,6999,,Delhi,delhi.csv,3.8,km,3.8,False
+Novotel New Delhi International Airport- An Accor hotels brand,4.1,Very Good,4534.0,5.0,Aerocity,Indira Gandhi International Airport,4.2 km,7250,,Delhi,delhi.csv,4.2,km,4.2,False
+The Suryaa New Delhi,4.1,Very Good,4314.0,5.0,New Friends Colony,,,5348,1092,Delhi,delhi.csv,,,,False
+The Hosteller Delhi | Private Rooms & Dorms,4.3,Excellent,795.0,,New Friends Colony,,,2228,503,Delhi,delhi.csv,,,,False
+The LaLiT New Delhi,4.1,Very Good,7908.0,5.0,Connaught Place,,,9040,2430,Delhi,delhi.csv,,,,False
+Radisson Blu Plaza Delhi Airport,4.3,Excellent,7275.0,5.0,Mahipalpur,Indira Gandhi International Airport,5.2 km,4500,765,Delhi,delhi.csv,5.2,km,5.2,False
+Roseate House New Delhi,4.4,Excellent,9130.0,5.0,Aerocity,Indira Gandhi International Airport,3.5 km,9649,1737,Delhi,delhi.csv,3.5,km,3.5,False
+Lemon Tree Hotel East Delhi Mall Kaushambi,3.9,Very Good,1550.0,4.0,In Ghaziabad,Delhi city centre,24.0 km,2073,752,Delhi,delhi.csv,24.0,km,24.0,False
+YWCA OF DELHI BLUE TRIANGLE FAMILY HOSTEL,3.9,Very Good,505.0,,Connaught Place,Metro Museum,690 m,2620,770,Delhi,delhi.csv,690.0,m,0.69,False
+Hotel Trans International,4.2,Very Good,6933.0,4.0,Mahipalpur,Indira Gandhi International Airport,4.3 km,2274,465,Delhi,delhi.csv,4.3,km,4.3,False
+The Leela Ambience Convention Hotel Delhi,4.4,Excellent,3845.0,5.0,East Delhi,,,7499,,Delhi,delhi.csv,,,,False
+Jaypee Vasant Continental Hotel,4.0,Very Good,1696.0,5.0,Vasant Vihar,T1 - Delhi Airport (IGI Airport),7.6 km,5999,,Delhi,delhi.csv,7.6,km,7.6,False
+YWCA INTERNATIONAL GUEST HOUSE,3.8,Very Good,412.0,,Connaught Place,India Gate,3.0 km,2408,648,Delhi,delhi.csv,3.0,km,3.0,False
+Holiday Inn New Delhi Mayur Vihar,4.1,Very Good,2935.0,5.0,East Delhi,,,6249,,Delhi,delhi.csv,,,,False
+Lemon Tree Premier Delhi Airport,3.9,Very Good,9726.0,4.0,Aerocity,Indira Gandhi International Airport,4.1 km,4464,1478,Delhi,delhi.csv,4.1,km,4.1,False
+Radisson Blu Marina Hotel Connaught Place,3.8,Very Good,2642.0,5.0,Connaught Place,,,8000,,Delhi,delhi.csv,,,,False
+The Metropolitan Hotel and Spa,4.1,Very Good,4049.0,5.0,Connaught Place,,,7500,,Delhi,delhi.csv,,,,False
+The Grand New Delhi,3.8,Very Good,1885.0,5.0,Vasant Kunj,Indira Gandhi International Airport,7.7 km,12899,2322,Delhi,delhi.csv,7.7,km,7.7,False
+Crowne Plaza Mayur Vihar,4.3,Excellent,3398.0,5.0,East Delhi,,,8649,,Delhi,delhi.csv,,,,False
+Hotel Smart Plaza,4.3,Excellent,4031.0,3.0,Mahipalpur,Indira Gandhi International Airport,4.4 km,1525,423,Delhi,delhi.csv,4.4,km,4.4,False
+Hotel Aero Star,4.3,Excellent,9760.0,4.0,Mahipalpur,Indira Gandhi International Airport,4.3 km,2472,505,Delhi,delhi.csv,4.3,km,4.3,False
+Golden Bliss Near IGI Airport Mahipalpur,3.0,Good,108.0,,Mahipalpur,Indira Gandhi International Airport,4.1 km,2794,811,Delhi,delhi.csv,4.1,km,4.1,False
+Hotel International Inn,4.1,Very Good,12005.0,3.0,Mahipalpur,Indira Gandhi International Airport,4.3 km,2199,537,Delhi,delhi.csv,4.3,km,4.3,False
+The Park New Delhi,3.5,Very Good,6779.0,5.0,Connaught Place,Connaught Place,730 m,7905,2125,Delhi,delhi.csv,730.0,m,0.73,False
+ibis New Delhi Aerocity - An Accor Brand,3.7,Very Good,5538.0,4.0,Aerocity,Indira Gandhi International Airport,4.4 km,5100,,Delhi,delhi.csv,4.4,km,4.4,False
+goSTOPS Delhi - Rooms & Dorms,4.2,Very Good,1076.0,,Chandni Chowk,Red Fort,1.8 km,1481,384,Delhi,delhi.csv,1.8,km,1.8,False
+Hotel The Royal Plaza,3.4,Good,10365.0,4.0,Connaught Place,India Gate,2.3 km,7379,885,Delhi,delhi.csv,2.3,km,2.3,False
+"Taj Mahal, New Delhi",4.5,Excellent,991.0,5.0,Man Singh Road Area,India Gate,1.2 km,12000,,Delhi,delhi.csv,1.2,km,1.2,False
+Hotel Shanti Palace (Mahipalpur),3.7,Very Good,2308.0,4.0,Mahipalpur,Indira Gandhi International Airport,4.1 km,2604,532,Delhi,delhi.csv,4.1,km,4.1,False
+Aloft New Delhi Aerocity,4.2,Very Good,2906.0,5.0,Aerocity,Indira Gandhi International Airport,4.1 km,6950,,Delhi,delhi.csv,4.1,km,4.1,False
+Radisson Blu Hotel New Delhi Dwarka,3.7,Very Good,7268.0,5.0,Sector 13 Dwarka,,,5953,714,Delhi,delhi.csv,,,,False
+Hotel Star,4.3,Excellent,1202.0,4.0,Mahipalpur,Indira Gandhi International Airport,4.3 km,2472,505,Delhi,delhi.csv,4.3,km,4.3,False
+Pullman New Delhi International Airport- An Accor Luxury Brand,4.3,Excellent,2197.0,5.0,Aerocity,Indira Gandhi International Airport,4.2 km,10500,,Delhi,delhi.csv,4.2,km,4.2,False
+Hotel Aman Continental @ Paharganj,4.3,Excellent,5760.0,3.0,Paharganj,New Delhi Railway Station,390 m,2045,620,Delhi,delhi.csv,390.0,m,0.39,False
+"Taj Palace, New Delhi",4.5,Excellent,7913.0,5.0,Chanakyapuri,T1 - Delhi Airport (IGI Airport),7.0 km,11500,,Delhi,delhi.csv,7.0,km,7.0,False
+Red Fox Hotel Delhi Airport,3.9,Very Good,7509.0,3.0,Aerocity,Indira Gandhi International Airport,4.2 km,2903,1054,Delhi,delhi.csv,4.2,km,4.2,False
+"Vivanta New Delhi, Dwarka",4.3,Excellent,7707.0,5.0,Sector 21 Dwarka,,,7100,,Delhi,delhi.csv,,,,False
+The Gold Regency @ Paharganj,4.3,Excellent,2949.0,3.0,Paharganj,New Delhi Railway Station,310 m,2044,620,Delhi,delhi.csv,310.0,m,0.31,False
+"Red Brick | Home by Earthaa Escapes
+Like a 3",4.2,Very Good,132.0,,Malviya Nagar,,,2548,696,Delhi,delhi.csv,,,,False
+JW Marriott Hotel New Delhi Aerocity,4.5,Excellent,1308.0,5.0,Aerocity,Indira Gandhi International Airport,4.1 km,12800,,Delhi,delhi.csv,4.1,km,4.1,False
+Crowne Plaza Rohini,4.3,Excellent,2702.0,5.0,Rohini,,,6498,,Delhi,delhi.csv,,,,False
+"Park Plaza, Shahdara",3.7,Very Good,3422.0,5.0,East Delhi,,,3825,,Delhi,delhi.csv,,,,False
+Andaz Delhi - A concept by Hyatt,4.3,Excellent,1272.0,5.0,Aerocity,Indira Gandhi International Airport,3.9 km,11000,,Delhi,delhi.csv,3.9,km,3.9,False
+Homestay AC Dormitory at Kashmiri Gate,3.9,Very Good,256.0,,North Delhi,,,735,229,Delhi,delhi.csv,,,,False
+Zone Connect Saket Delhi,3.9,Very Good,390.0,5.0,Saket,,,5900,1205,Delhi,delhi.csv,,,,False
+Crowne Plaza Okhla,4.3,Excellent,2802.0,5.0,Okhla Industrial Area,,,6300,,Delhi,delhi.csv,,,,False
+Taurus Sarovar Portico,3.1,Good,845.0,4.0,Mahipalpur,Indira Gandhi International Airport,4.0 km,2976,608,Delhi,delhi.csv,4.0,km,4.0,False
+The Leela Palace New Delhi,4.5,Excellent,449.0,5.0,Chanakyapuri,T1 - Delhi Airport (IGI Airport),8.5 km,17000,,Delhi,delhi.csv,8.5,km,8.5,True
+Shangri-La Eros New Delhi,4.4,Excellent,1832.0,5.0,Connaught Place,India Gate,2.3 km,12500,,Delhi,delhi.csv,2.3,km,2.3,False
+Sheraton New Delhi,4.5,Excellent,1706.0,5.0,Saket,,,9500,,Delhi,delhi.csv,,,,False
+"Hyatt Centric Janakpuri, New Delhi",3.6,Very Good,850.0,5.0,Janakpuri,,,5599,,Delhi,delhi.csv,,,,False
+ITC Maurya - A Luxury Collection Hotel,4.3,Excellent,2009.0,5.0,Chanakyapuri,T1 - Delhi Airport (IGI Airport),7.4 km,11000,,Delhi,delhi.csv,7.4,km,7.4,False
+Le Meridien Delhi,4.2,Very Good,1622.0,5.0,Connaught Place,India Gate,2.1 km,12150,,Delhi,delhi.csv,2.1,km,2.1,False
+"Eros Hotel New Delhi ,Nehru Place",4.0,Very Good,2733.0,5.0,Near Nehru Place,,,4999,,Delhi,delhi.csv,,,,False
+Jaypee Siddharth Hotel,3.7,Very Good,2052.0,5.0,Pusa road,BLK Hospital,590 m,6299,,Delhi,delhi.csv,590.0,m,0.59,False
+Hotel Vertu,4.0,Very Good,3227.0,4.0,Mahipalpur,Indira Gandhi International Airport,4.2 km,2525,631,Delhi,delhi.csv,4.2,km,4.2,False
+"Le ROI, Delhi@ New Delhi Railway Station",4.0,Very Good,4625.0,3.0,Paharganj,,,2474,633,Delhi,delhi.csv,,,,False
+Ashiana Hotel @ New Delhi Railway Station,3.7,Very Good,176.0,,Paharganj,New Delhi Railway Station,880 m,883,307,Delhi,delhi.csv,880.0,m,0.88,False
+The Roseate,4.3,Excellent,2371.0,5.0,Mahipalpur,Indira Gandhi International Airport,8.0 km,12024,2164,Delhi,delhi.csv,8.0,km,8.0,False
+"The Connaught, New Delhi - IHCL SeleQtions",4.5,Excellent,2016.0,4.0,Connaught Place,Connaught Place,980 m,7499,,Delhi,delhi.csv,980.0,m,0.98,False
+Hyatt Regency New Delhi,4.2,Very Good,1655.0,5.0,R.K. Puram,T1 - Delhi Airport (IGI Airport),8.3 km,8100,1863,Delhi,delhi.csv,8.3,km,8.3,False
+Hotel Samrat,3.2,Good,2214.0,4.0,Chanakyapuri,T1 - Delhi Airport (IGI Airport),9.8 km,4278,874,Delhi,delhi.csv,9.8,km,9.8,False
+"New Delhi YMCA Tourist Hostel | Rooms & Wi-Fi
+Like a 3",3.5,Very Good,1401.0,,Connaught Place,Connaught Place,900 m,3148,847,Delhi,delhi.csv,900.0,m,0.9,False
+Golden Keys Inn,3.7,Very Good,752.0,3.0,North Delhi,,,2009,679,Delhi,delhi.csv,,,,False
+Ginger East Delhi,3.5,Very Good,3276.0,3.0,East Delhi,,,1839,,Delhi,delhi.csv,,,,False
+The Hans,3.6,Very Good,1397.0,4.0,Connaught Place,Agrasen Ki Baoli,600 m,4860,993,Delhi,delhi.csv,600.0,m,0.6,False
+"Shubham Vilas
+Like a 3",4.2,Very Good,323.0,,Rajouri Garden,,,1876,665,Delhi,delhi.csv,,,,False
+Ramada By Wyndham New Delhi Pitampura,3.5,Very Good,1620.0,4.0,North Delhi,,,4437,906,Delhi,delhi.csv,,,,False
+Svelte Hotel & Personal Suites,3.6,Very Good,967.0,5.0,Saket,,,8333,,Delhi,delhi.csv,,,,False
+The Grand Uddhav,4.2,Very Good,1838.0,3.0,Paharganj,New Delhi Railway Station,740 m,3081,817,Delhi,delhi.csv,740.0,m,0.74,False
+Hotel Chanakya Inn,3.4,Good,2603.0,3.0,Mahipalpur,Indira Gandhi International Airport,4.1 km,1836,513,Delhi,delhi.csv,4.1,km,4.1,False
+Hotel Viva Palace @ Delhi Airport,3.9,Very Good,528.0,4.0,Mahipalpur,Indira Gandhi International Airport,4.2 km,2271,567,Delhi,delhi.csv,4.2,km,4.2,False
+Hotel Hari Piorko,3.8,Very Good,5220.0,3.0,Paharganj,New Delhi Railway Station,630 m,1104,412,Delhi,delhi.csv,630.0,m,0.63,False
+Hotel Southern,3.4,Good,2350.0,3.0,Karol bagh,,,1951,469,Delhi,delhi.csv,,,,False
+Hotel Delhi 37,4.3,Excellent,8326.0,3.0,Mahipalpur,Indira Gandhi International Airport,4.3 km,2472,505,Delhi,delhi.csv,4.3,km,4.3,False
+Red Fox Hotel East Delhi,3.6,Very Good,1069.0,3.0,East Delhi,,,1908,692,Delhi,delhi.csv,,,,False
+HOME@B11,2.3,Average,3.0,,East Of Kailash,,,2758,901,Delhi,delhi.csv,,,,False
+The Umrao,3.9,Very Good,2863.0,5.0,Samalka,Indira Gandhi International Airport,6.5 km,5000,,Delhi,delhi.csv,6.5,km,6.5,False
+IIDL Suites,4.1,Very Good,1926.0,4.0,East Delhi,,,4900,,Delhi,delhi.csv,,,,False
+Four Points by Sheraton Delhi,4.0,Very Good,1662.0,4.0,Samalka,Indira Gandhi International Airport,6.4 km,4559,,Delhi,delhi.csv,6.4,km,6.4,False
+"Deventure Sarovar Portico, Kapashera, New Delhi",3.9,Very Good,2681.0,4.0,Delhi,Indira Gandhi International Airport,8.1 km,5022,1026,Delhi,delhi.csv,8.1,km,8.1,False
+"The Dream House BnB | Rooms & Caretaker
+Like a 3",4.1,Very Good,41.0,,Safdarjung Enclave,T1 - Delhi Airport (IGI Airport),9.4 km,2542,684,Delhi,delhi.csv,9.4,km,9.4,False
+"Park Inn by Radisson, IP Extension- New Delhi",3.8,Very Good,2618.0,4.0,East Delhi,,,4150,,Delhi,delhi.csv,,,,False
+The Claridges New Delhi,4.1,Very Good,1055.0,5.0,Motilal Nehru Marg Area,India Gate,2.2 km,10350,1863,Delhi,delhi.csv,2.2,km,2.2,False
+De Pavilion Hotel,3.6,Very Good,2047.0,4.0,Mahipalpur,Indira Gandhi International Airport,4.6 km,3164,646,Delhi,delhi.csv,4.6,km,4.6,False
+Venizia Sarovar Portico,3.6,Very Good,563.0,4.0,North Delhi,,,3766,769,Delhi,delhi.csv,,,,False
+Centaur Hotel,2.5,Average,676.0,3.0,Delhi Airport,Indira Gandhi International Airport,2.0 km,3202,654,Delhi,delhi.csv,2.0,km,2.0,False
+The Orion Plaza - Nehru Place,3.8,Very Good,1180.0,3.0,Near Nehru Place,,,2706,589,Delhi,delhi.csv,,,,False
+Dee Marks Hotel & Resort Delhi Airport,3.4,Good,1572.0,4.0,Mahipalpur,Indira Gandhi International Airport,8.8 km,2534,633,Delhi,delhi.csv,8.8,km,8.8,False
+HOTEL LE SEASONS,3.6,Very Good,581.0,4.0,Mahipalpur,Indira Gandhi International Airport,3.8 km,2653,700,Delhi,delhi.csv,3.8,km,3.8,False
+Caspia Hotel New Delhi Shalimar Bagh,3.4,Good,1725.0,3.0,North Delhi,,,2799,572,Delhi,delhi.csv,,,,False
+"Park Inn by Radisson, Lajpat Nagar",4.1,Very Good,1856.0,4.0,Andrews Ganj,,,6999,,Delhi,delhi.csv,,,,False
+Jukaso Inn Down Town,3.6,Very Good,1207.0,3.0,Connaught Place,Connaught Place,700 m,3134,682,Delhi,delhi.csv,700.0,m,0.7,False
+Hotel LA New Delhi,3.6,Very Good,1764.0,4.0,Mangolpuri,,,3438,702,Delhi,delhi.csv,,,,False
+Kelvish Hotel Near Delhi Airport,3.9,Very Good,1337.0,3.0,Mahipalpur,Indira Gandhi International Airport,5.4 km,1869,481,Delhi,delhi.csv,5.4,km,5.4,False
+Radisson Hyderabad Hitec City,3.7,Very Good,7994.0,5.0,Gachibowli,,,4500,,Hyderabad,hyderabad.csv,,,,False
+The Park Hyderabad,3.7,Very Good,11318.0,5.0,Somajiguda,,,5699,1284,Hyderabad,hyderabad.csv,,,,False
+ITC Kohenur - A Luxury Collection Hotel,4.3,Excellent,2465.0,5.0,Hitech City,,,16150,,Hyderabad,hyderabad.csv,,,,True
+Fairfield by Marriott Hyderabad Gachibowli,3.9,Very Good,5006.0,4.0,Gachibowli,,,4004,818,Hyderabad,hyderabad.csv,,,,False
+Radisson Blu Plaza Hotel,4.1,Very Good,4632.0,5.0,Banjara Hills,,,7250,,Hyderabad,hyderabad.csv,,,,False
+Lemon Tree Hotel Gachibowli,4.0,Very Good,5372.0,4.0,Gachibowli,,,4183,1518,Hyderabad,hyderabad.csv,,,,False
+Red Fox Hotel Hyderabad,3.9,Very Good,4338.0,3.0,Hitech City,,,2654,1050,Hyderabad,hyderabad.csv,,,,False
+"Lemon Tree Hotel, Banjara Hills, Hyderabad",4.1,Very Good,2775.0,4.0,Banjara Hills,,,2571,933,Hyderabad,hyderabad.csv,,,,False
+"Taj Krishna, Hyderabad",4.5,Excellent,1580.0,5.0,Banjara Hills,,,8000,,Hyderabad,hyderabad.csv,,,,False
+Novotel Hyderabad Airport,3.9,Very Good,1278.0,5.0,Near Hyderabad Airport,Rajiv Gandhi International Airport,3.6 km,12999,,Hyderabad,hyderabad.csv,3.6,km,3.6,False
+Rester Select Kukatpally,4.0,Very Good,263.0,3.0,Kukatpally,,,2463,674,Hyderabad,hyderabad.csv,,,,False
+The Golkonda Hotel,4.1,Very Good,3981.0,4.0,Masab Tank,,,5499,660,Hyderabad,hyderabad.csv,,,,False
+Trident Hyderabad,4.7,Excellent,1517.0,5.0,Hitech City,,,14250,,Hyderabad,hyderabad.csv,,,,True
+Ellaa Hotel Gachibowli,3.8,Very Good,4341.0,4.0,Gachibowli,,,3321,678,Hyderabad,hyderabad.csv,,,,False
+Lemon Tree Premier HITEC City Hyderabad,4.0,Very Good,5148.0,5.0,Hitech City,,,3151,1246,Hyderabad,hyderabad.csv,,,,False
+"Siri Inn Hospitality | Rooms in an Apartment
+Like a 3",3.6,Very Good,681.0,,Hitech City,,,1287,373,Hyderabad,hyderabad.csv,,,,False
+ibis Hyderabad HITEC City - An Accor Brand,3.8,Very Good,1016.0,3.0,Hitech City,,,4499,,Hyderabad,hyderabad.csv,,,,False
+Hyatt Place Hyderabad Banjara Hills,4.1,Very Good,1695.0,5.0,Banjara Hills,,,7249,,Hyderabad,hyderabad.csv,,,,False
+"Vivanta Hyderabad, Begumpet",4.4,Excellent,2743.0,5.0,Begumpet,,,6500,,Hyderabad,hyderabad.csv,,,,False
+Zen Comfort,4.0,Very Good,300.0,,Gachibowli,,,1438,387,Hyderabad,hyderabad.csv,,,,False
+Hyderabad Marriott Hotel and Convention Centre,4.3,Excellent,1240.0,5.0,Kavadiguda,,,6500,,Hyderabad,hyderabad.csv,,,,False
+HOTEL SIGNATURE AIRPORT ZONE SHAMSHABAD,4.1,Very Good,2343.0,3.0,Shamshabad,Rajiv Gandhi International Airport,8.5 km,2217,571,Hyderabad,hyderabad.csv,8.5,km,8.5,False
+Daspalla Hotel,4.1,Very Good,1948.0,4.0,Jubilee Hills,,,5413,1386,Hyderabad,hyderabad.csv,,,,False
+Hotel OAK by Signature,4.2,Very Good,1722.0,3.0,Shamshabad,Rajiv Gandhi International Airport,8.5 km,1317,346,Hyderabad,hyderabad.csv,8.5,km,8.5,False
+Aditya Park Hyderabad - A Sarovar Hotel,4.0,Very Good,2503.0,4.0,Ameerpet,,,6111,1248,Hyderabad,hyderabad.csv,,,,False
+"Park Hyatt Hotel and Residences, Hyderabad",4.2,Very Good,874.0,5.0,Sri Nagar Colony,,,10000,,Hyderabad,hyderabad.csv,,,,False
+Marigold By Green Park,4.3,Excellent,2477.0,5.0,Ameerpet,,,5714,1485,Hyderabad,hyderabad.csv,,,,False
+Hotel Hyderabad Grand,3.8,Very Good,1599.0,3.0,Shamshabad,Rajiv Gandhi International Airport,7.6 km,3028,756,Hyderabad,hyderabad.csv,7.6,km,7.6,False
+Green Park,4.2,Very Good,1864.0,4.0,Ameerpet,,,5122,1267,Hyderabad,hyderabad.csv,,,,False
+The Central Court,3.6,Very Good,3819.0,3.0,Lakdikapul,,,2041,566,Hyderabad,hyderabad.csv,,,,False
+Holiday Inn Express Hyderabad HITEC City,3.5,Very Good,1894.0,3.0,Hitech City,,,4499,,Hyderabad,hyderabad.csv,,,,False
+Slackpackr Hostel,4.1,Very Good,87.0,,Begumpet,,,849,237,Hyderabad,hyderabad.csv,,,,False
+Holiday Inn Express Hyderabad Banjara Hills,3.5,Very Good,2359.0,3.0,Punjagutta,,,4140,540,Hyderabad,hyderabad.csv,,,,False
+CITADEL Hotel By Vinnca,4.1,Very Good,949.0,3.0,Gaghan Pahad,,,2932,802,Hyderabad,hyderabad.csv,,,,False
+Aditya Hometel Hyderabad - A Sarovar Hotel,3.5,Very Good,2234.0,3.0,Ameerpet,,,1860,380,Hyderabad,hyderabad.csv,,,,False
+Hotel Deccan Serai Grande,4.4,Excellent,517.0,4.0,Gachibowli,,,7014,2297,Hyderabad,hyderabad.csv,,,,False
+Katriya Hotel and Towers,2.8,Average,3250.0,3.0,Somajiguda,,,3761,451,Hyderabad,hyderabad.csv,,,,False
+Hotel Saptagiri Hyderabad,3.8,Very Good,2861.0,3.0,Shivaji Nagar,Secunderabad Junction Railway Station,760 m,2724,614,Hyderabad,hyderabad.csv,760.0,m,0.76,False
+Hampshire Plaza Hotel,3.8,Very Good,1680.0,3.0,Lakdikapul,,,3379,891,Hyderabad,hyderabad.csv,,,,False
+"Taj Deccan, Hyderabad",4.4,Excellent,2694.0,5.0,Banjara Hills,,,6990,,Hyderabad,hyderabad.csv,,,,False
+Avasa Hotel,4.2,Very Good,2073.0,5.0,Madhapur,,,6696,1368,Hyderabad,hyderabad.csv,,,,False
+Hotel Akoya - HITECH City Hyderabad,4.1,Very Good,520.0,3.0,Hitech City,,,2471,681,Hyderabad,hyderabad.csv,,,,False
+MARIGOLD AT NEST,3.8,Very Good,93.0,2.0,Gachibowli,,,1346,307,Hyderabad,hyderabad.csv,,,,False
+HOTEL RAINTR33,3.8,Very Good,1012.0,3.0,Hitech City,,,2011,550,Hyderabad,hyderabad.csv,,,,False
+Urban Nest Luxury Rooms,3.9,Very Good,206.0,,Kokapet,,,1046,357,Hyderabad,hyderabad.csv,,,,False
+Novotel Hyderabad Convention Centre,4.2,Very Good,2033.0,5.0,Hitech City,,,10500,,Hyderabad,hyderabad.csv,,,,False
+Hotel B Plus L,4.0,Very Good,866.0,4.0,Hitech City,,,3360,795,Hyderabad,hyderabad.csv,,,,False
+La Hometel Hotel - HITECH City Hyderabad,3.9,Very Good,236.0,3.0,Hitech City,,,1435,387,Hyderabad,hyderabad.csv,,,,False
+Le Meridien Hyderabad,4.3,Excellent,1059.0,5.0,Gachibowli,,,10500,,Hyderabad,hyderabad.csv,,,,False
+"Restel Studio Flats
+Like a 3",4.2,Very Good,262.0,,Borabanda,,,1801,504,Hyderabad,hyderabad.csv,,,,False
+The Conclave,3.2,Good,958.0,3.0,Gachibowli,,,1613,497,Hyderabad,hyderabad.csv,,,,False
+The Landmark Banjara Hills,4.0,Very Good,613.0,3.0,Banjara Hills,,,1696,437,Hyderabad,hyderabad.csv,,,,False
+THE CENT,3.3,Good,1544.0,3.0,Lakdikapul,,,1662,389,Hyderabad,hyderabad.csv,,,,False
+Courtyard by Marriott Hyderabad,4.5,Excellent,981.0,4.0,Kavadiguda,,,6000,,Hyderabad,hyderabad.csv,,,,False
+"The Wilderness Retreat | Rooms & Restaurant
+Like a 4",3.9,Very Good,220.0,,Gandipet,,,7346,2197,Hyderabad,hyderabad.csv,,,,False
+The Altruist Business Hotel (Hitech),3.7,Very Good,1888.0,4.0,Shilpa Hills,,,4278,1028,Hyderabad,hyderabad.csv,,,,False
+Istay Hotels Hitec,3.7,Very Good,1236.0,3.0,Kondapur,,,2913,613,Hyderabad,hyderabad.csv,,,,False
+Hyatt Hyderabad Gachibowli,4.1,Very Good,864.0,5.0,Gachibowli,,,8750,,Hyderabad,hyderabad.csv,,,,False
+The Art Boutique Hotel,3.8,Very Good,1515.0,3.0,Gachibowli,,,2197,677,Hyderabad,hyderabad.csv,,,,False
+Hotel Imperial Classic,3.9,Very Good,2183.0,3.0,Himayat Nagar,,,1068,315,Hyderabad,hyderabad.csv,,,,False
+Mercure Hyderabad KCP - An AccorHotels brand,4.2,Very Good,773.0,4.0,Punjagutta,,,5000,,Hyderabad,hyderabad.csv,,,,False
+Veeraj Suites,4.0,Very Good,435.0,3.0,Rai Durg,,,2170,599,Hyderabad,hyderabad.csv,,,,False
+Bloom Hotel - Gachibowli,4.1,Very Good,181.0,3.0,Gachibowli,,,4500,,Hyderabad,hyderabad.csv,,,,False
+Oakwood Residence Kapil Hyderabad,4.5,Excellent,957.0,,Gachibowli,,,7500,,Hyderabad,hyderabad.csv,,,,False
+Aalankrita Resort & Convention,4.1,Very Good,3109.0,4.0,Secunderabad,city centre,26.5 km,4484,916,Hyderabad,hyderabad.csv,26.5,km,26.5,False
+Minerva Grand- Kondapur,3.9,Very Good,1019.0,3.0,Kothaguda,,,4371,893,Hyderabad,hyderabad.csv,,,,False
+M SQUARE HOTEL,3.9,Very Good,263.0,3.0,Hitech City,,,4395,898,Hyderabad,hyderabad.csv,,,,False
+Sri Sri Suites,3.4,Good,152.0,,Madhapur,,,1208,330,Hyderabad,hyderabad.csv,,,,False
+The Manohar,2.7,Average,258.0,3.0,Begumpet,,,3158,645,Hyderabad,hyderabad.csv,,,,False
+The Lime Boutique Suites,4.1,Very Good,1434.0,3.0,Gachibowli,,,2976,608,Hyderabad,hyderabad.csv,,,,False
+Taj Tristar,3.9,Very Good,992.0,3.0,Secunderabad,city centre,7.7 km,2271,494,Hyderabad,hyderabad.csv,7.7,km,7.7,False
+Minerva Grand - Banjara,4.0,Very Good,1453.0,3.0,Banjara Hills,,,4464,912,Hyderabad,hyderabad.csv,,,,False
+Sheraton Hyderabad,4.3,Excellent,769.0,5.0,Gachibowli,,,125000,,Hyderabad,hyderabad.csv,,,,True
+ITC Kakatiya - A Luxury Collection Hotel,4.2,Very Good,1071.0,5.0,Begumpet,,,9690,,Hyderabad,hyderabad.csv,,,,False
+Bikanervala Boutique Hotel,4.1,Very Good,1037.0,3.0,Banjara Hills,,,3488,713,Hyderabad,hyderabad.csv,,,,False
+The Park Kolkata,3.9,Very Good,7647.0,5.0,New Market Area,Park Street,210 m,4207,886,Kolkata,kolkata.csv,210.0,m,0.21,False
+"Zone By The Park, Kolkata",3.8,Very Good,8656.0,5.0,New Town,,,3915,926,Kolkata,kolkata.csv,,,,False
+JW Marriott Hotel Kolkata,4.4,Excellent,1527.0,5.0,Tangra,,,7800,,Kolkata,kolkata.csv,,,,False
+ibis Kolkata Rajarhat - An Accor Brand,3.9,Very Good,2355.0,4.0,New Town,,,2220,,Kolkata,kolkata.csv,,,,False
+The Lalit Great Eastern Kolkata,4.2,Very Good,2486.0,5.0,Bow Barracks,Eden Gardens,970 m,6365,764,Kolkata,kolkata.csv,970.0,m,0.97,False
+ITC Royal Bengal - A Luxury Collection Hotel,4.5,Excellent,3849.0,5.0,Tangra,,,8925,,Kolkata,kolkata.csv,,,,False
+"Lemon Tree Premier, New Town, Kolkata",4.2,Very Good,3026.0,5.0,New Town,,,2156,782,Kolkata,kolkata.csv,,,,False
+Novotel Kolkata Hotel and Residences,4.1,Very Good,2827.0,5.0,New Town,,,5060,,Kolkata,kolkata.csv,,,,False
+All Fresco Hotel,3.7,Very Good,688.0,3.0,Baguiati,Netaji Subhash Chandra Bose International Airport,5.6 km,1637,483,Kolkata,kolkata.csv,5.6,km,5.6,False
+Regenta Orko's Kolkata,3.9,Very Good,2055.0,4.0,Kasba,Acropolis Mall,680 m,3321,449,Kolkata,kolkata.csv,680.0,m,0.68,False
+"Holiday Inn Express, Kolkata Airport",4.1,Very Good,1655.0,3.0,Dum Dum,Netaji Subhash Chandra Bose International Airport,1.7 km,4099,,Kolkata,kolkata.csv,1.7,km,1.7,False
+Himalayan Inn Guest House - Near TCS Gitobitan,3.3,Good,534.0,,Salt Lake City,,,724,257,Kolkata,kolkata.csv,,,,False
+Holiday Inn Kolkata Airport,4.1,Very Good,2486.0,5.0,Chinar Park,Netaji Subhash Chandra Bose International Airport,4.7 km,4600,,Kolkata,kolkata.csv,4.7,km,4.7,False
+"Taj City Centre New Town, Kolkata",4.4,Excellent,1556.0,5.0,Rajarhat,Netaji Subhash Chandra Bose International Airport,5.8 km,5650,,Kolkata,kolkata.csv,5.8,km,5.8,False
+"Vivanta Kolkata, EM Bypass",4.4,Excellent,2031.0,5.0,East Kolkata Township,,,5500,,Kolkata,kolkata.csv,,,,False
+Hyatt Regency Kolkata,4.2,Very Good,1426.0,5.0,Salt Lake City,Salt Lake Stadium,740 m,5780,694,Kolkata,kolkata.csv,740.0,m,0.74,False
+"Bandhan Residency
+Like a 3",3.7,Very Good,460.0,,Kaikhali,Netaji Subhash Chandra Bose International Airport,3.0 km,1102,350,Kolkata,kolkata.csv,3.0,km,3.0,False
+The Oberoi Grand,4.7,Excellent,1268.0,5.0,New Market Area,Park Street,930 m,8000,,Kolkata,kolkata.csv,930.0,m,0.93,False
+"Fairfield by Marriott, Kolkata",4.1,Very Good,2332.0,4.0,New Town,,,2499,,Kolkata,kolkata.csv,,,,False
+Ethnotel,4.0,Very Good,3211.0,3.0,Dum Dum,Netaji Subhash Chandra Bose International Airport,1.7 km,2949,621,Kolkata,kolkata.csv,1.7,km,1.7,False
+Backpackers Park Hostel @ParkStreet,3.8,Very Good,417.0,,New Market Area,Park Street,150 m,893,209,Kolkata,kolkata.csv,150.0,m,0.15,False
+THE WESTIN KOLKATA RAJARHAT,4.4,Excellent,2067.0,5.0,New Town,Netaji Subhash Chandra Bose International Airport,9.3 km,5699,,Kolkata,kolkata.csv,9.3,km,9.3,False
+"Taj Bengal, Kolkata",4.6,Excellent,1165.0,5.0,Alipore,,,8000,,Kolkata,kolkata.csv,,,,False
+Hotel Senses,3.9,Very Good,1943.0,4.0,Salt Lake City,Salt Lake Sec V,900 m,3716,1016,Kolkata,kolkata.csv,900.0,m,0.9,False
+ITC Sonar - A Luxury Collection Hotel,4.4,Excellent,2325.0,5.0,Tangra,,,7225,,Kolkata,kolkata.csv,,,,False
+Kenilworth Hotel,4.3,Excellent,669.0,4.0,Park Street Area,,,6054,727,Kolkata,kolkata.csv,,,,False
+The Peerless Inn,3.9,Very Good,3539.0,4.0,Near Howrah Train Station,Eden Gardens,770 m,4186,855,Kolkata,kolkata.csv,770.0,m,0.77,False
+De Sovrani,3.9,Very Good,1260.0,4.0,Salt Lake City,,,2916,690,Kolkata,kolkata.csv,,,,False
+"Pride Plaza Hotel, Kolkata",3.9,Very Good,1861.0,5.0,New Town,,,2800,336,Kolkata,kolkata.csv,,,,False
+"City Central Hostel, Kolkata",4.6,Excellent,77.0,,Kolkata,Dharamtala Market,980 m,736,198,Kolkata,kolkata.csv,980.0,m,0.98,False
+Siamton Inn - A Cygnett Collection,4.0,Very Good,2312.0,4.0,Park Street,Park Street,10 m,2790,677,Kolkata,kolkata.csv,10.0,m,0.01,False
+Hotel Aauris,4.1,Very Good,1658.0,4.0,Park Street,Park Street,430 m,4650,950,Kolkata,kolkata.csv,430.0,m,0.43,False
+"Howard Johnson by Wyndham, Kolkata Airport",3.9,Very Good,1150.0,4.0,Chinar Park,Netaji Subhash Chandra Bose International Airport,3.6 km,2500,,Kolkata,kolkata.csv,3.6,km,3.6,False
+Park Prime Kolkata,3.8,Very Good,2036.0,3.0,Ballygunge,,,3652,1006,Kolkata,kolkata.csv,,,,False
+Joey's Nest,4.7,Excellent,54.0,,Salt Lake City,Netaji Subhash Chandra Bose International Airport,9.5 km,2245,583,Kolkata,kolkata.csv,9.5,km,9.5,False
+Hotel Hindusthan International,3.6,Very Good,1907.0,5.0,Bhowanipore,,,4134,978,Kolkata,kolkata.csv,,,,False
+Hotel Niharika,4.1,Very Good,1551.0,3.0,Elgin,,,2790,570,Kolkata,kolkata.csv,,,,False
+Vedic Village Spa Resort,4.0,Very Good,3761.0,4.0,Vedic Village,,,3688,944,Kolkata,kolkata.csv,,,,False
+Park Palace Hotel,3.6,Very Good,1471.0,3.0,Ballygunge,,,1350,431,Kolkata,kolkata.csv,,,,False
+Offbeat CCU Bunkers,4.3,Excellent,92.0,,Topsia,,,944,205,Kolkata,kolkata.csv,,,,False
+Monotel Luxury Business Hotel,3.9,Very Good,1744.0,4.0,Salt Lake City,,,3523,855,Kolkata,kolkata.csv,,,,False
+AIRPORT CITY HOTEL,3.9,Very Good,1658.0,4.0,Birati,Netaji Subhash Chandra Bose International Airport,2.0 km,2994,767,Kolkata,kolkata.csv,2.0,km,2.0,False
+The Lindsay,3.5,Very Good,1990.0,3.0,New Market Area,Park Street,870 m,2907,710,Kolkata,kolkata.csv,870.0,m,0.87,False
+RituIvy,4.0,Very Good,547.0,3.0,East Kolkata Township,,,2132,588,Kolkata,kolkata.csv,,,,False
+Hotel O2 Oxygen,3.8,Very Good,826.0,4.0,Near Kolkata Airport,Netaji Subhash Chandra Bose International Airport,2.1 km,2856,583,Kolkata,kolkata.csv,2.1,km,2.1,False
+VISITEL - A BOUTIQUE HOTEL,3.8,Very Good,1058.0,3.0,Kankurgachi,,,1991,590,Kolkata,kolkata.csv,,,,False
+IndiSmart Hotel,3.9,Very Good,277.0,3.0,Salt Lake City,,,1999,515,Kolkata,kolkata.csv,,,,False
+LYNQ AERO,4.0,Very Good,461.0,3.0,Salt Lake City,,,3242,767,Kolkata,kolkata.csv,,,,False
+"Park Guest House, Kolkata",3.7,Very Good,19.0,,Park Street,Park Street,140 m,1045,315,Kolkata,kolkata.csv,140.0,m,0.14,False
+Regenta Inn Larica,3.6,Very Good,1448.0,3.0,Chinar Park,Netaji Subhash Chandra Bose International Airport,4.1 km,2713,419,Kolkata,kolkata.csv,4.1,km,4.1,False
+Golden Tulip Kolkata,4.1,Very Good,1538.0,4.0,Salt Lake City,,,3772,770,Kolkata,kolkata.csv,,,,False
+The Senator,4.3,Excellent,1016.0,3.0,Elgin,,,2511,513,Kolkata,kolkata.csv,,,,False
+Gallery 67,4.2,Very Good,832.0,3.0,Ghose Bagan,Netaji Subhash Chandra Bose International Airport,9.4 km,2536,737,Kolkata,kolkata.csv,9.4,km,9.4,False
+CHOWDHURY'S ESTATES,3.5,Very Good,24.0,,Elgin,,,1935,480,Kolkata,kolkata.csv,,,,False
+Pipal Tree Hotel,4.0,Very Good,2274.0,4.0,Chinar Park,Netaji Subhash Chandra Bose International Airport,4.2 km,3579,846,Kolkata,kolkata.csv,4.2,km,4.2,False
+Stayotel,4.0,Very Good,606.0,3.0,Dum Dum,Netaji Subhash Chandra Bose International Airport,1.5 km,2365,672,Kolkata,kolkata.csv,1.5,km,1.5,False
+"Raajkutir, Kolkata - IHCL SeleQtions",4.6,Excellent,576.0,5.0,Kankurgachi,Salt Lake Stadium,810 m,5350,,Kolkata,kolkata.csv,810.0,m,0.81,False
+The Sonnet,4.1,Very Good,844.0,4.0,Salt Lake City,,,4937,1233,Kolkata,kolkata.csv,,,,False
+"Krishna Kunja | Rooms & Caretaker
+Like a 3",4.6,Excellent,99.0,,South Dum Dum,Netaji Subhash Chandra Bose International Airport,5.1 km,1440,418,Kolkata,kolkata.csv,5.1,km,5.1,False
+Aristocrat Hotel,3.7,Very Good,262.0,4.0,New Town,,,1966,409,Kolkata,kolkata.csv,,,,False
+The Fern Residency Kolkata,3.8,Very Good,1051.0,3.0,Chinar Park,Netaji Subhash Chandra Bose International Airport,4.2 km,2462,582,Kolkata,kolkata.csv,4.2,km,4.2,False
+Sapphire Suites,3.8,Very Good,776.0,3.0,New Market Area,Park Street,780 m,3089,631,Kolkata,kolkata.csv,780.0,m,0.78,False
+Victoria Hotel,4.0,Very Good,862.0,3.0,Chinar Park,Netaji Subhash Chandra Bose International Airport,4.0 km,2388,720,Kolkata,kolkata.csv,4.0,km,4.0,False
+The Pearl Hotel,3.3,Good,608.0,3.0,Beliaghata,Salt Lake Stadium,840 m,1517,484,Kolkata,kolkata.csv,840.0,m,0.84,False
+The Astor,4.2,Very Good,933.0,4.0,Park Street Area,,,4502,920,Kolkata,kolkata.csv,,,,False
+Barsana Boutique Hotel (Pure vegetarian),4.2,Very Good,296.0,3.0,Tangra,,,3767,770,Kolkata,kolkata.csv,,,,False
+THE MAUREEN KOLKATA,4.0,Very Good,1441.0,3.0,Baguiati,Netaji Subhash Chandra Bose International Airport,4.7 km,3188,671,Kolkata,kolkata.csv,4.7,km,4.7,False
+The Aster Penthouse,4.2,Very Good,12.0,,Ballygunge,Park Street,960 m,1766,532,Kolkata,kolkata.csv,960.0,m,0.96,False
+The Firangipani Suites,4.0,Very Good,106.0,3.0,New Town,,,1980,484,Kolkata,kolkata.csv,,,,False
+Celesta,4.1,Very Good,1087.0,3.0,Baguiati,Netaji Subhash Chandra Bose International Airport,5.8 km,3085,842,Kolkata,kolkata.csv,5.8,km,5.8,False
+HOTEL EASTERN PLAZA,3.3,Good,1312.0,3.0,Kaikhali,Netaji Subhash Chandra Bose International Airport,4.1 km,1192,331,Kolkata,kolkata.csv,4.1,km,4.1,False
+Hotel Aura,3.6,Very Good,432.0,3.0,New Market Area,,,2106,599,Kolkata,kolkata.csv,,,,False
+Viceroy Kolkata (Boutique Hotel),3.8,Very Good,1077.0,3.0,Chinar Park,Netaji Subhash Chandra Bose International Airport,3.8 km,2562,523,Kolkata,kolkata.csv,3.8,km,3.8,False
+Beyzaa Hotel & Suites (Brewery Hotel),4.2,Very Good,593.0,4.0,Salt Lake City,,,4589,551,Kolkata,kolkata.csv,,,,False
+The CORPORATE,3.4,Good,577.0,3.0,Park Street,Park Street,130 m,3086,867,Kolkata,kolkata.csv,130.0,m,0.13,False
+Hotel Trimoorti,3.6,Very Good,1375.0,3.0,Bhowanipore,,,1488,476,Kolkata,kolkata.csv,,,,False
+Bubble Beds,3.9,Very Good,376.0,,Kalighat,Kalighat Kali Temple,960 m,597,161,Kolkata,kolkata.csv,960.0,m,0.96,False
+The Opus Kolkata - A Boutique Hotel,3.9,Very Good,376.0,3.0,Bhowanipore,,,2372,485,Kolkata,kolkata.csv,,,,False
+Hotel Crest Inn,3.7,Very Good,975.0,,Park Circus,,,1260,382,Kolkata,kolkata.csv,,,,False
+Golden Parkk,3.6,Very Good,219.0,3.0,Park Street Area,Park Street,960 m,3767,770,Kolkata,kolkata.csv,960.0,m,0.96,False
+Hotel The Crest,3.8,Very Good,324.0,,Park Circus,,,1328,384,Kolkata,kolkata.csv,,,,False
+Park Victoria Hotel,3.4,Good,383.0,,New Market Area,Park Street,250 m,1507,308,Kolkata,kolkata.csv,250.0,m,0.25,False
+The Samilton,4.0,Very Good,777.0,3.0,Bhowanipore,,,3499,420,Kolkata,kolkata.csv,,,,False
+Treebo Trend Orion Sapphire Beck Bagan,3.8,Very Good,127.0,,Park Street,Park Street,770 m,2540,530,Kolkata,kolkata.csv,770.0,m,0.77,False
+Eennra Oiitijhyya,4.4,Excellent,142.0,3.0,Keyatala,,,1994,567,Kolkata,kolkata.csv,,,,False
+"The Aster Heritage Homestay | Rooms & Caretaker
+Like a 3",4.3,Excellent,115.0,,New Market Area,Park Street,60 m,2452,660,Kolkata,kolkata.csv,60.0,m,0.06,False
+Basera Guest House,4.1,Very Good,635.0,,Gariahat,,,1000,289,Kolkata,kolkata.csv,,,,False
+LYNQ-CICO - Hotel,3.8,Very Good,634.0,3.0,Alipore,,,2372,576,Kolkata,kolkata.csv,,,,False
+The Lake Hotel,3.7,Very Good,396.0,3.0,Dhakuria,,,1986,528,Kolkata,kolkata.csv,,,,False
+"The Aster Heritage Gold
+Like a 3",4.4,Excellent,17.0,,New Market Area,Park Street,50 m,4723,1320,Kolkata,kolkata.csv,50.0,m,0.05,False
+Treebo Tryst Tahoora International Park Street,3.7,Very Good,70.0,3.0,Park Street,Park Street,100 m,3257,680,Kolkata,kolkata.csv,100.0,m,0.1,False
+Southern Plaza,3.8,Very Good,276.0,3.0,Kalighat,,,3201,674,Kolkata,kolkata.csv,,,,False
+DIAMOND PLAZA,3.8,Very Good,736.0,,Bow Bazaar,College Street,800 m,1850,438,Kolkata,kolkata.csv,800.0,m,0.8,False
+Lytton Hotel,3.6,Very Good,431.0,3.0,New Market Area,Park Street,560 m,3004,711,Kolkata,kolkata.csv,560.0,m,0.56,False
+"Dorota House | Room & Caretaker
+Like a 3",4.0,Very Good,73.0,,Salt Lake City,,,1365,412,Kolkata,kolkata.csv,,,,False
+Hotel O2 VIP,3.9,Very Good,356.0,3.0,Near Kolkata Airport,Netaji Subhash Chandra Bose International Airport,2.0 km,2212,481,Kolkata,kolkata.csv,2.0,km,2.0,False
+Hotel Gateway Continental,3.8,Very Good,600.0,3.0,Dum Dum,Netaji Subhash Chandra Bose International Airport,1.3 km,2800,737,Kolkata,kolkata.csv,1.3,km,1.3,False
+Hotel Air View,4.0,Very Good,539.0,,Dum Dum,Netaji Subhash Chandra Bose International Airport,1.8 km,1078,255,Kolkata,kolkata.csv,1.8,km,1.8,False
+Hotel Casa Fortuna,3.9,Very Good,693.0,3.0,Park Street Area,,,3934,950,Kolkata,kolkata.csv,,,,False
+Middleton Inn,3.5,Very Good,264.0,3.0,Park Street,Park Street,710 m,2590,545,Kolkata,kolkata.csv,710.0,m,0.71,False
+Hotel Sawood International,3.6,Very Good,687.0,3.0,Tangra,,,2122,560,Kolkata,kolkata.csv,,,,False
+The Orchid Hotel Mumbai Vile Parle,4.0,Very Good,5593.0,5.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,930 m,6499,780,Mumbai,mumbai.csv,930.0,m,0.93,False
+Trident Bandra Kurla,4.6,Excellent,4987.0,5.0,Bandra Kurla Complex,T1 - Chhatrapati Shivaji International Airport,7.8 km,8750,,Mumbai,mumbai.csv,7.8,km,7.8,False
+ITC Grand Central - A Luxury Collection Hotel,4.5,Excellent,2445.0,5.0,South Mumbai,Cooper hospital,620 m,14000,,Mumbai,mumbai.csv,620.0,m,0.62,True
+IRA By Orchid Mumbai ( VITS Mumbai),3.9,Very Good,4707.0,4.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,2.3 km,5099,612,Mumbai,mumbai.csv,2.3,km,2.3,False
+Trident Nariman Point,4.6,Excellent,5563.0,5.0,Marine Drive,Queen's Necklace - Marine Drive,470 m,11250,,Mumbai,mumbai.csv,470.0,m,0.47,False
+The Lalit Mumbai,4.1,Very Good,6468.0,5.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,1.3 km,11160,3000,Mumbai,mumbai.csv,1.3,km,1.3,False
+"Ginger Mumbai, Andheri East",3.7,Very Good,5340.0,4.0,Andheri East,T1 - Chhatrapati Shivaji International Airport,3.3 km,3679,,Mumbai,mumbai.csv,3.3,km,3.3,False
+"Taj Santacruz, Mumbai",4.6,Excellent,4563.0,5.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,560 m,9000,,Mumbai,mumbai.csv,560.0,m,0.56,False
+Hotel Surya Prakash,3.9,Very Good,121.0,3.0,Chembur,,,3939,968,Mumbai,mumbai.csv,,,,False
+Hilton Mumbai International Airport,4.2,Very Good,1686.0,5.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,1.6 km,9100,,Mumbai,mumbai.csv,1.6,km,1.6,False
+Holiday Inn Mumbai International Airport,4.3,Excellent,2744.0,5.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,3.0 km,6999,,Mumbai,mumbai.csv,3.0,km,3.0,False
+goSTOPS Mumbai - Rooms & Dorms,3.9,Very Good,1376.0,,South Mumbai,,,816,211,Mumbai,mumbai.csv,,,,False
+The Regale by Tunga,4.1,Very Good,4946.0,3.0,Andheri East,T2 - Chhatrapati Shivaji International Airport,3.6 km,4427,932,Mumbai,mumbai.csv,3.6,km,3.6,False
+"Taj Lands End, Mumbai",4.5,Excellent,4222.0,5.0,Bandra West,Band Stand,230 m,11000,,Mumbai,mumbai.csv,230.0,m,0.23,False
+"Ramada Plaza By Wyndham Palm Grove, Juhu, Mumbai",4.1,Very Good,7206.0,5.0,Juhu,T1 - Chhatrapati Shivaji International Airport,5.8 km,7095,2136,Mumbai,mumbai.csv,5.8,km,5.8,False
+Sahara Star,4.2,Very Good,7303.0,5.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,760 m,10400,1872,Mumbai,mumbai.csv,760.0,m,0.76,False
+Qubestay Airport Capsule Hostel | Rooms & Dorms,3.8,Very Good,632.0,,Andheri East,T2 - Chhatrapati Shivaji International Airport,3.6 km,1160,341,Mumbai,mumbai.csv,3.6,km,3.6,False
+Courtyard by Marriott Mumbai International Airport,4.3,Excellent,1829.0,5.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,3.3 km,7500,,Mumbai,mumbai.csv,3.3,km,3.3,False
+The Westin Mumbai Garden City,4.4,Excellent,1431.0,5.0,Goregaon,T1 - Chhatrapati Shivaji International Airport,9.5 km,9000,,Mumbai,mumbai.csv,9.5,km,9.5,False
+JW Marriott Mumbai Juhu,4.4,Excellent,1731.0,5.0,Juhu,T1 - Chhatrapati Shivaji International Airport,5.5 km,12500,,Mumbai,mumbai.csv,5.5,km,5.5,False
+ITC Maratha - A Luxury Collection Hotel,4.4,Excellent,4680.0,5.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,1.4 km,10030,,Mumbai,mumbai.csv,1.4,km,1.4,False
+City Stay,4.6,Excellent,214.0,,Andheri East,T1 - Chhatrapati Shivaji International Airport,3.7 km,1229,370,Mumbai,mumbai.csv,3.7,km,3.7,False
+JW Marriott Mumbai Sahar,4.5,Excellent,2139.0,5.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,1.2 km,9500,,Mumbai,mumbai.csv,1.2,km,1.2,False
+Radisson Mumbai Andheri MIDC,4.3,Excellent,3609.0,5.0,Andheri East,T2 - Chhatrapati Shivaji International Airport,4.1 km,7000,,Mumbai,mumbai.csv,4.1,km,4.1,False
+Sofitel Mumbai BKC- Luxury Brand by Accor,4.3,Excellent,2276.0,5.0,Bandra Kurla Complex,T1 - Chhatrapati Shivaji International Airport,7.6 km,8550,1539,Mumbai,mumbai.csv,7.6,km,7.6,False
+The Leela Mumbai,4.5,Excellent,2861.0,5.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,1.7 km,10500,,Mumbai,mumbai.csv,1.7,km,1.7,False
+Novotel Mumbai International Airport,4.4,Excellent,102.0,5.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,1.8 km,8299,,Mumbai,mumbai.csv,1.8,km,1.8,False
+Radisson Blu Mumbai International Airport,4.4,Excellent,2166.0,5.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,2.1 km,7499,,Mumbai,mumbai.csv,2.1,km,2.1,False
+Sun-N-Sand,4.2,Very Good,2353.0,5.0,Juhu,T1 - Chhatrapati Shivaji International Airport,5.8 km,8835,2660,Mumbai,mumbai.csv,5.8,km,5.8,False
+The St. Regis Mumbai,4.5,Excellent,1328.0,5.0,South Mumbai,Tata memorial cancer hospital,640 m,12500,,Mumbai,mumbai.csv,640.0,m,0.64,False
+Niranta Airport Transit Hotel & Lounge Terminal 2 Arrivals/Landside,4.0,Very Good,1443.0,4.0,In Mumbai Airport,,,9303,2501,Mumbai,mumbai.csv,,,,False
+"Zostel Mumbai
+Like a 3",4.0,Very Good,738.0,,Andheri East,T2 - Chhatrapati Shivaji International Airport,3.6 km,1342,285,Mumbai,mumbai.csv,3.6,km,3.6,False
+"President, Mumbai - IHCL SeleQtions",4.4,Excellent,2510.0,5.0,South Mumbai,Queen's Necklace - Marine Drive,2.4 km,10400,,Mumbai,mumbai.csv,2.4,km,2.4,False
+Novotel Mumbai Juhu Beach,3.6,Very Good,2306.0,5.0,Juhu,T1 - Chhatrapati Shivaji International Airport,5.6 km,8500,,Mumbai,mumbai.csv,5.6,km,5.6,False
+Ibis Mumbai Airport - An Accor Brand,3.6,Very Good,1990.0,3.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,680 m,6499,,Mumbai,mumbai.csv,680.0,m,0.68,False
+"Ginger Mumbai, Andheri (MIDC)",3.4,Good,2721.0,3.0,Jogeshwari East,T2 - Chhatrapati Shivaji International Airport,5.3 km,2624,,Mumbai,mumbai.csv,5.3,km,5.3,False
+Lakeside Chalet Marriott Executive Apartments,4.1,Very Good,362.0,,Powai,T2 - Chhatrapati Shivaji International Airport,6.5 km,9000,,Mumbai,mumbai.csv,6.5,km,6.5,False
+"Lemon Tree Hotel, Kalina, Mumbai",3.3,Good,324.0,4.0,Bandra Kurla Complex,T1 - Chhatrapati Shivaji International Airport,6.7 km,4975,1806,Mumbai,mumbai.csv,6.7,km,6.7,False
+Ramee Guestline Hotel Juhu,3.6,Very Good,3162.0,4.0,Juhu,T1 - Chhatrapati Shivaji International Airport,5.7 km,5275,1430,Mumbai,mumbai.csv,5.7,km,5.7,False
+Ramee Techome,4.0,Very Good,1173.0,4.0,Khar West,T1 - Chhatrapati Shivaji International Airport,5.2 km,6231,1273,Mumbai,mumbai.csv,5.2,km,5.2,False
+Shabana,3.5,Very Good,216.0,,Colaba,Gateway Of India Mumbai,1.1 km,1304,355,Mumbai,mumbai.csv,1.1,km,1.1,False
+Hotel Bawa International,4.0,Very Good,1817.0,3.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,810 m,5000,,Mumbai,mumbai.csv,810.0,m,0.81,False
+"Ginger Mumbai, Goregaon",3.8,Very Good,478.0,4.0,Goregaon,T1 - Chhatrapati Shivaji International Airport,8.5 km,3224,,Mumbai,mumbai.csv,8.5,km,8.5,False
+Grand Hyatt Mumbai,4.3,Excellent,1855.0,5.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,3.7 km,10000,,Mumbai,mumbai.csv,3.7,km,3.7,False
+Hotel Marine Plaza,4.2,Very Good,1292.0,5.0,Churchgate,Queen's Necklace - Marine Drive,270 m,9449,1701,Mumbai,mumbai.csv,270.0,m,0.27,False
+"Lemon Tree Premier, Mumbai International Airport, Mumbai",4.2,Very Good,5001.0,5.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,2.3 km,3566,1294,Mumbai,mumbai.csv,2.3,km,2.3,False
+Hotel Airport International,3.7,Very Good,3139.0,3.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,780 m,3255,770,Mumbai,mumbai.csv,780.0,m,0.78,False
+Dragonfly Hotel - The Art Hotel,3.5,Very Good,906.0,4.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,3.1 km,3035,935,Mumbai,mumbai.csv,3.1,km,3.1,False
+Four Seasons Hotel Mumbai,4.4,Excellent,1863.0,5.0,South Mumbai,,,49000,,Mumbai,mumbai.csv,,,,True
+Gateway Inn | Rooms in an Apartment,3.2,Good,356.0,,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,2.3 km,1839,495,Mumbai,mumbai.csv,2.3,km,2.3,False
+"The Oberoi, Mumbai",4.7,Excellent,876.0,5.0,Marine Drive,Queen's Necklace - Marine Drive,420 m,16750,,Mumbai,mumbai.csv,420.0,m,0.42,True
+Hotel Jyoti Dwelling,4.2,Very Good,1539.0,3.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,3.2 km,2232,456,Mumbai,mumbai.csv,3.2,km,3.2,False
+Indie Stays,3.9,Very Good,1406.0,3.0,Bandra Kurla Complex,T1 - Chhatrapati Shivaji International Airport,5.8 km,6975,1425,Mumbai,mumbai.csv,5.8,km,5.8,False
+Meluha - The Fern,4.4,Excellent,2189.0,5.0,Powai,T2 - Chhatrapati Shivaji International Airport,7.2 km,7109,1911,Mumbai,mumbai.csv,7.2,km,7.2,False
+Afra dormitory,4.8,Excellent,4.0,,Andheri East,T2 - Chhatrapati Shivaji International Airport,3.3 km,848,228,Mumbai,mumbai.csv,3.3,km,3.3,False
+Hotel Airlink,3.8,Very Good,387.0,3.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,950 m,3204,798,Mumbai,mumbai.csv,950.0,m,0.95,False
+The Fern Goregaon,4.2,Very Good,1842.0,5.0,Goregaon,T1 - Chhatrapati Shivaji International Airport,8.9 km,7988,2405,Mumbai,mumbai.csv,8.9,km,8.9,False
+Mirage Hotel,4.1,Very Good,1820.0,4.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,1.7 km,6126,1251,Mumbai,mumbai.csv,1.7,km,1.7,False
+"RELOhomes | 1 BHK Apartment
+Like a 4",4.6,Excellent,45.0,,Powai,T2 - Chhatrapati Shivaji International Airport,7.7 km,5721,1420,Mumbai,mumbai.csv,7.7,km,7.7,False
+Click Hotel Caliph,3.3,Good,834.0,3.0,Powai,T2 - Chhatrapati Shivaji International Airport,5.4 km,4500,,Mumbai,mumbai.csv,5.4,km,5.4,False
+HOTEL LEAFIO MARIGOLD,3.7,Very Good,1387.0,3.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,2.2 km,3162,748,Mumbai,mumbai.csv,2.2,km,2.2,False
+"Keys Select by Lemon Tree Hotels, Nestor, Mumbai",3.5,Very Good,1528.0,3.0,Andheri East,T2 - Chhatrapati Shivaji International Airport,3.0 km,3623,1288,Mumbai,mumbai.csv,3.0,km,3.0,False
+Hotel Sea Princess,4.1,Very Good,1762.0,5.0,Juhu,T1 - Chhatrapati Shivaji International Airport,5.6 km,7952,2138,Mumbai,mumbai.csv,5.6,km,5.6,False
+HOTEL WEGO,4.1,Very Good,1335.0,3.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,2.2 km,3495,1128,Mumbai,mumbai.csv,2.2,km,2.2,False
+Rodas - An Ecotel Hotel,4.4,Excellent,795.0,3.0,Powai,T2 - Chhatrapati Shivaji International Airport,7.0 km,7998,2150,Mumbai,mumbai.csv,7.0,km,7.0,False
+The Westin Mumbai Powai Lake,4.3,Excellent,1282.0,5.0,Powai,T2 - Chhatrapati Shivaji International Airport,6.7 km,9000,,Mumbai,mumbai.csv,6.7,km,6.7,False
+Mayura Aureole Co-Living,4.2,Very Good,143.0,,Goregaon,T1 - Chhatrapati Shivaji International Airport,8.4 km,1496,418,Mumbai,mumbai.csv,8.4,km,8.4,False
+Sea Green Hotel,3.8,Very Good,1203.0,3.0,Churchgate,Queen's Necklace - Marine Drive,450 m,4692,1265,Mumbai,mumbai.csv,450.0,m,0.45,False
+ibis Mumbai Vikhroli - An Accor Brand,3.9,Very Good,327.0,4.0,Vikhroli West,T2 - Chhatrapati Shivaji International Airport,9.5 km,6299,,Mumbai,mumbai.csv,9.5,km,9.5,False
+Aboo's Concord Galaxy,3.3,Good,798.0,3.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,1.9 km,3228,831,Mumbai,mumbai.csv,1.9,km,1.9,False
+The Paradise by Tunga,4.0,Very Good,1202.0,3.0,Andheri East,T2 - Chhatrapati Shivaji International Airport,3.4 km,5864,1424,Mumbai,mumbai.csv,3.4,km,3.4,False
+Address Dormitory,4.0,Very Good,240.0,,Andheri East,T2 - Chhatrapati Shivaji International Airport,3.2 km,404,113,Mumbai,mumbai.csv,3.2,km,3.2,False
+Arnna Hotel - Goregaon,3.8,Very Good,135.0,3.0,Goregaon,T1 - Chhatrapati Shivaji International Airport,7.9 km,2919,830,Mumbai,mumbai.csv,7.9,km,7.9,False
+Ramee Guestline Hotel - Dadar,4.1,Very Good,774.0,4.0,South Mumbai,,,6814,1612,Mumbai,mumbai.csv,,,,False
+Hotel Metro Palace,3.6,Very Good,1167.0,3.0,Bandra West,Band Stand,2.5 km,4064,495,Mumbai,mumbai.csv,2.5,km,2.5,False
+Hotel Manama,3.5,Very Good,1566.0,3.0,South Mumbai,Gateway Of India Mumbai,2.3 km,3158,747,Mumbai,mumbai.csv,2.3,km,2.3,False
+Aashiyana Dormitory,3.1,Good,277.0,,South Mumbai,Gateway Of India Mumbai,2.4 km,630,176,Mumbai,mumbai.csv,2.4,km,2.4,False
+T24 Residency,4.0,Very Good,2465.0,4.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,2.0 km,4099,,Mumbai,mumbai.csv,2.0,km,2.0,False
+"The Taj Mahal Palace, Mumbai",4.7,Excellent,802.0,5.0,Colaba,Gateway Of India Mumbai,280 m,27000,,Mumbai,mumbai.csv,280.0,m,0.28,True
+The Roa Hotel,3.7,Very Good,1300.0,3.0,Ghatkopar West,T2 - Chhatrapati Shivaji International Airport,5.5 km,2976,608,Mumbai,mumbai.csv,5.5,km,5.5,False
+Hotel Leafio,3.5,Very Good,1919.0,3.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,3.1 km,2199,264,Mumbai,mumbai.csv,3.1,km,3.1,False
+The Byke Delotel,3.8,Very Good,419.0,3.0,Borivali West,,,3183,903,Mumbai,mumbai.csv,,,,False
+The Empresa Hotel,3.8,Very Good,701.0,4.0,Andheri West,T1 - Chhatrapati Shivaji International Airport,7.6 km,8099,1458,Mumbai,mumbai.csv,7.6,km,7.6,False
+HOTEL KOHINOOR PARK,3.8,Very Good,592.0,3.0,South Mumbai,Siddhivinayak Temple,480 m,3596,1118,Mumbai,mumbai.csv,480.0,m,0.48,False
+The Altruist Business Hotel (Andheri),3.6,Very Good,1257.0,3.0,Jogeshwari East,T1 - Chhatrapati Shivaji International Airport,4.5 km,2763,711,Mumbai,mumbai.csv,4.5,km,4.5,False
+Hotel Parle International,3.7,Very Good,3158.0,3.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,1.9 km,4836,1052,Mumbai,mumbai.csv,1.9,km,1.9,False
+Ocean Dormitory,3.6,Very Good,67.0,,Asalpha,T2 - Chhatrapati Shivaji International Airport,3.7 km,925,249,Mumbai,mumbai.csv,3.7,km,3.7,False
+Hotel Beacon T2,3.2,Good,955.0,4.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,3.9 km,3600,851,Mumbai,mumbai.csv,3.9,km,3.9,False
+Hotel Columbus,3.6,Very Good,1401.0,3.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,1.5 km,2608,567,Mumbai,mumbai.csv,1.5,km,1.5,False
+Sea Green South Hotel,3.9,Very Good,985.0,3.0,Churchgate,Queen's Necklace - Marine Drive,440 m,5583,1389,Mumbai,mumbai.csv,440.0,m,0.44,False
+Hotel Suba International,4.3,Excellent,683.0,4.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,2.0 km,6700,,Mumbai,mumbai.csv,2.0,km,2.0,False
+Classic Dormitory,3.8,Very Good,123.0,,Andheri East,T2 - Chhatrapati Shivaji International Airport,3.5 km,572,145,Mumbai,mumbai.csv,3.5,km,3.5,False
+The Resort Mumbai,4.2,Very Good,3937.0,5.0,Madh,,,11811,3556,Mumbai,mumbai.csv,,,,False
+The Mirador,3.7,Very Good,384.0,4.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,3.2 km,6750,810,Mumbai,mumbai.csv,3.2,km,3.2,False
+The Sahil Hotel,4.2,Very Good,1587.0,4.0,South Mumbai,Mumbai Central Bus Terminus,610 m,4650,1100,Mumbai,mumbai.csv,610.0,m,0.61,False
+Avion Hotel,3.3,Good,1154.0,3.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,1.6 km,4205,1033,Mumbai,mumbai.csv,1.6,km,1.6,False
+Blossom Dormitory ( For Male and Female),3.6,Very Good,214.0,,Sakinaka,T2 - Chhatrapati Shivaji International Airport,3.4 km,678,189,Mumbai,mumbai.csv,3.4,km,3.4,False
+Comfort Inn Heritage,3.9,Very Good,963.0,4.0,South Mumbai,,,4743,1122,Mumbai,mumbai.csv,,,,False
+Hotel Planet Residency,3.8,Very Good,1064.0,3.0,Near Mumbai Airport,T1 - Chhatrapati Shivaji International Airport,2.2 km,3726,1028,Mumbai,mumbai.csv,2.2,km,2.2,False
+Hotel Kohinoor Elite,4.1,Very Good,2183.0,4.0,Near Mumbai Airport,T2 - Chhatrapati Shivaji International Airport,6.1 km,7250,,Mumbai,mumbai.csv,6.1,km,6.1,False
+Residency Hotel Andheri,4.0,Very Good,1866.0,4.0,Andheri East,T1 - Chhatrapati Shivaji International Airport,3.2 km,4883,1155,Mumbai,mumbai.csv,3.2,km,3.2,False
